@@ -37,7 +37,8 @@ int main() {
 		Point centroids[i];
 		Point newCentroids[i];
 		bool isCentroidSame = false;
-		
+		int centroidReassignmentCounter = 0;
+
 		findCentroid(i, listSize, centroids, cities);
 		// start while loop
 		while ( !isCentroidSame ) {
@@ -47,14 +48,29 @@ int main() {
 			// if compare returns false then centroids = newCentroids
 			if ( !isCentroidSame ) {
 				updateCentroid(i, centroids, newCentroids);
+				centroidReassignmentCounter++;
+
+				cout << endl;
+               			for (int j = 0; j < i; j++) {
+                        		cout << "Itteration Centroid " << j << ": Lat = " << centroids[j].coord[0] << "      Long = " << centroids[j].coord[1] << endl;
+                		}
 			}
 		}
-		
+
+		cout << endl;
+		for (int j = 0; j < i; j++) {
+			cout << "Final Centroid " << j << ": Lat = " << centroids[j].coord[0] << "	Long = " << centroids[j].coord[1] << endl;
+		}
+
+		cout << endl;
+		cout << "Number of times the centroids were updated: " << centroidReassignmentCounter << endl;
+
+		cout << endl;	
 		cout << "City" << setw(13) << "Lat" << setw(13) << "Long" << setw(10) << "kValue" << endl;
 		cout << "----" << setw(13) << "-------" << setw(13) << "-------" << setw(10) << "------" << endl;
 		// loop through list of cities and display the final state for each city
 		for (int j=0; j < listSize; j++) {
-         	        cout << j << setw(15) <<  cities[j].coord[0] << setw(10) << cities[j].coord[1] << setw(10) << cities[j].kValue << endl;
+         	        cout << j << setw(15) <<  cities[j].coord[0] << setw(13) << cities[j].coord[1] << setw(10) << cities[j].kValue << endl;
         	}
 	}
 
@@ -135,7 +151,9 @@ void assignToCentroid(int kClusters, int listSize, Point centroids[], Point citi
 				citiesList[i].kValue = j;
 				previousDist = currentDist;
 			} else if (currentDist == 0 ) {
-				cout << "Centroid " << j <<": City -> " << i << endl;
+				cout << "Random Centroid " << j <<":	City -> " << i;
+				cout << ": 	Lat = " << centroids[j].coord[0];
+				cout << "      Long = " << centroids[j].coord[1] << endl;
 			}
 		}
 	}
