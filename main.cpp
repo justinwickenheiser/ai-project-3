@@ -32,7 +32,18 @@ int main() {
 	readFile(cities);
 
 	// for each set of centroids (or k clusters)
-	for (int i = 3; i <= 3; i++) {
+	for (int i = 3; i <= 5; i++) {
+		// Display Header
+		cout << "===========================================================" << endl;
+		cout << "=======================================================" << endl;
+		cout << "===================================================" << endl;
+		cout << "===============================================" << endl;
+		cout << "===========================================" << endl;
+		cout << "NUMBER OF CLUSTERS: " << i << endl;
+		cout << "===========================================" << endl;
+		cout << "===============================================" << endl;
+		cout << endl << endl;
+
 		// tracks the number of points assigned to each cluster
 		Point centroids[i];
 		Point newCentroids[i];
@@ -72,6 +83,7 @@ int main() {
 		for (int j=0; j < listSize; j++) {
          	        cout << j << setw(15) <<  cities[j].coord[0] << setw(13) << cities[j].coord[1] << setw(10) << cities[j].kValue << endl;
         	}
+		cout << endl << endl;
 	}
 
 	return 0;
