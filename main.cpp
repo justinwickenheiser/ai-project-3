@@ -7,6 +7,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
+#include <iomanip>
 using namespace std;
 
 struct Point {
@@ -20,7 +21,9 @@ int findFileSize();
 void findCentroid(int kClusters, int listSize, Point centroids[], Point citiesList[]);
 void assignToCentroid(int kClusters, int listSize, Point centroids[], Point citiesList[]);
 double distanceFormula(Point coord1, Point coord2);
-void calcNewCentroid(int kClusters, 
+void calcNewCentroid(int kClusters, int listSize, Point newCentroids[], Point citiesList[]);
+bool compareCentroid(int kClusters, Point currentCentroids[], Point newCentroids[]);
+void updateCentroid(int kClusters, Point currentCentroids[], Point newCentroids[]);
 
 int main() {
 	int listSize = findFileSize();
@@ -28,29 +31,30 @@ int main() {
 	// fills cities[] with the values from the file
 	readFile(cities);
 
-/*	
-	for (int i=0; i < listSize; i++) {
-		cout << "----City:  " << i << "---- " << endl;
-		cout << "Lat: " << cities[i].coord[0] << endl;
-		cout << "Long: " << cities[i].coord[1] << endl;
-		cout << endl;
-	}
-*/	
-
 	// for each set of centroids (or k clusters)
 	for (int i = 3; i <= 3; i++) {
 		// tracks the number of points assigned to each cluster
 		Point centroids[i];
-		findCentroid(i, listSize, centroids, cities);
-		assignToCentroid(i, listSize, centroids, cities);
+		Point newCentroids[i];
+		bool isCentroidSame = false;
 		
-		// loop through list of cities and display info
+		findCentroid(i, listSize, centroids, cities);
+		// start while loop
+		while ( !isCentroidSame ) {
+			assignToCentroid(i, listSize, centroids, cities);
+			calcNewCentroid(i, listSize, newCentroids, cities);
+			isCentroidSame = compareCentroid(i, centroids, newCentroids);
+			// if compare returns false then centroids = newCentroids
+			if ( !isCentroidSame ) {
+				updateCentroid(i, centroids, newCentroids);
+			}
+		}
+		
+		cout << "City" << setw(13) << "Lat" << setw(13) << "Long" << setw(10) << "kValue" << endl;
+		cout << "----" << setw(13) << "-------" << setw(13) << "-------" << setw(10) << "------" << endl;
+		// loop through list of cities and display the final state for each city
 		for (int j=0; j < listSize; j++) {
-         	        cout << "----City:  " << j << "---- " << endl;
-			cout << "Lat: " << cities[j].coord[0] << endl;
-                	cout << "Long: " << cities[j].coord[1] << endl;
-			cout << "kValue: " << cities[j].kValue << endl;
-                	cout << endl;
+         	        cout << j << setw(15) <<  cities[j].coord[0] << setw(10) << cities[j].coord[1] << setw(10) << cities[j].kValue << endl;
         	}
 	}
 
@@ -134,6 +138,53 @@ void assignToCentroid(int kClusters, int listSize, Point centroids[], Point citi
 				cout << "Centroid " << j <<": City -> " << i << endl;
 			}
 		}
+	}
+}
+
+// Calculates the new centroid of each cluster, "returns" the newCentroids[]
+void calcNewCentroid(int kClusters, int listSize, Point newCentroids[], Point citiesList[]) {
+	// for each cluster
+	for (int i=0; i < kClusters; i++) {
+		// declare tallying variables
+		double xDist = 0;
+		double yDist = 0;
+		int numPoints = 0;
+
+		// Loop through array of cities
+		for (int j=0; j < listSize; j++) {
+			// if the current city belongs to the current cluster,
+			// add to it's total x and y distances
+			// increment the total number of points in current cluster
+			if (citiesList[j].kValue == i) {
+				xDist += citiesList[j].coord[0];
+				yDist += citiesList[j].coord[1];
+				numPoints++;
+			}
+		}
+
+		// calculate the average x and y distance to find the new centroid
+		newCentroids[i].coord[0] = xDist / (double)numPoints;
+		newCentroids[i].coord[1] = yDist / (double)numPoints;
+		newCentroids[i].kValue = i;
+	}
+}
+
+// returns true if the centroids list are the same, false if ANY changed
+bool compareCentroid(int kClusters, Point currentCentroids[], Point newCentroids[]) {
+	for (int i = 0; i < kClusters; i++) {
+		// if current and new latitudes are NOT Equal OR the current and new longitudes are NOT Equal
+		if (currentCentroids[i].coord[0] != newCentroids[i].coord[0] || currentCentroids[i].coord[1] != newCentroids[i].coord[1]) {
+			return false;
+		}
+	}
+	return true;
+}
+
+// updates the current centroid to equal the new centroid
+void updateCentroid(int kClusters, Point currentCentroids[], Point newCentroids[]) {
+	for (int i=0; i < kClusters; i++) {
+		currentCentroids[i].coord[0] = newCentroids[i].coord[0];
+		currentCentroids[i].coord[1] = newCentroids[i].coord[1];
 	}
 }
 
