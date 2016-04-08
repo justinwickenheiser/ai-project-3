@@ -18,9 +18,10 @@ void readFile(Point array[]) {
     ifstream myfile;
     myfile.open("us-cities-sample.csv");
     if (myfile.is_open()) {
-        while ( myfile >> lat >> lng ) {
+        while ( myfile >> city >> lat >> lng ) {
             array[counter].coord[0] = lat;
             array[counter].coord[1] = lng;
+            strcpy(array[counter].name, city.c_str());
             counter++;
         }
         myfile.close();
@@ -37,7 +38,7 @@ int findFileSize() {
     ifstream myfile;
     myfile.open("us-cities-sample.csv");
     if (myfile.is_open()) {
-        while ( myfile >> lat >> lng ) {
+        while ( myfile >> city >> lat >> lng ) {
             counter++;
         }
         myfile.close();
@@ -82,8 +83,8 @@ void assignToCentroid(int kClusters, int listSize, Point centroids[], Point citi
                 citiesList[i].kValue = j;
                 previousDist = currentDist;
             } else if (currentDist == 0 ) {
-                cout << "Random Centroid " << j <<":	City -> " << i;
-                cout << ": 	Lat = " << centroids[j].coord[0];
+                cout << "Random Centroid " << j;
+                cout << ":  Lat = " << centroids[j].coord[0];
                 cout << "      Long = " << centroids[j].coord[1] << endl;
             }
         }

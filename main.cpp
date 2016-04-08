@@ -9,9 +9,6 @@
 #include <math.h>
 #include <iomanip>
 #include "functions.h"
-
-#include "koolplot.h"
-
 using namespace std;
 
 int main() {
@@ -53,9 +50,9 @@ int main() {
 				centroidReassignmentCounter++;
 
 				cout << endl;
-               			for (int j = 0; j < i; j++) {
-                        		cout << "Itteration Centroid " << j << ": Lat = " << centroids[j].coord[0] << "      Long = " << centroids[j].coord[1] << endl;
-                		}
+               	for (int j = 0; j < i; j++) {
+                    cout << "Itteration Centroid " << j << ": Lat = " << centroids[j].coord[0] << "      Long = " << centroids[j].coord[1] << endl;
+                }
 			}
 		}
 
@@ -68,14 +65,13 @@ int main() {
 		cout << "Number of times the centroids were updated: " << centroidReassignmentCounter << endl;
 
 		cout << endl;	
-		cout << "City" << setw(13) << "Lat" << setw(13) << "Long" << setw(10) << "kValue" << endl;
-		cout << "----" << setw(13) << "-------" << setw(13) << "-------" << setw(10) << "------" << endl;
+		cout <<  "Lat" << setw(15) << "Long" << setw(25) << "City" << setw(13) << "kValue" << endl;
+		cout <<  "-------" << setw(13) << "-------" << setw(24) << "------" << setw(12) << "------"  << endl;
 		// loop through list of cities and display the final state for each city
 		for (int j=0; j < listSize; j++) {
-            cout << j << setw(15) <<  cities[j].coord[0] << setw(13) << cities[j].coord[1] << setw(10) << cities[j].kValue << endl;
-            addMark(x, y, cities[j].coord[0], cities[j].coord[1]);
+            cout << cities[j].coord[0] << setw(13) << cities[j].coord[1] << setw(25) << cities[j].name << setw(10) << cities[j].kValue << endl;
         }
-        plot(x, y);
+        
 		cout << endl << endl;
 	}
 

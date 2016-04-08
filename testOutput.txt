@@ -1,0 +1,3458 @@
+===========================================================
+=======================================================
+===================================================
+===============================================
+===========================================
+NUMBER OF CLUSTERS: 3
+===========================================
+===============================================
+
+
+Random Centroid 0:  Lat = 41.9094      Long = -92.0844
+Random Centroid 2:  Lat = 40.8367      Long = -91.7157
+Random Centroid 1:  Lat = 43.115      Long = -92.0324
+
+Itteration Centroid 0: Lat = 41.7689      Long = -93.6429
+Itteration Centroid 1: Lat = 43.0093      Long = -93.5793
+Itteration Centroid 2: Lat = 41.0933      Long = -91.7519
+
+Itteration Centroid 0: Lat = 41.5815      Long = -94.3941
+Itteration Centroid 1: Lat = 42.9746      Long = -94.0327
+Itteration Centroid 2: Lat = 41.7744      Long = -91.5539
+
+Itteration Centroid 0: Lat = 41.5428      Long = -94.6461
+Itteration Centroid 1: Lat = 42.9287      Long = -94.1949
+Itteration Centroid 2: Lat = 41.9056      Long = -91.7086
+
+Itteration Centroid 0: Lat = 41.5326      Long = -94.7531
+Itteration Centroid 1: Lat = 42.8923      Long = -94.2641
+Itteration Centroid 2: Lat = 41.924      Long = -91.7885
+
+Itteration Centroid 0: Lat = 41.5123      Long = -94.7864
+Itteration Centroid 1: Lat = 42.8699      Long = -94.3093
+Itteration Centroid 2: Lat = 41.9352      Long = -91.8212
+
+Itteration Centroid 0: Lat = 41.4881      Long = -94.7837
+Itteration Centroid 1: Lat = 42.8609      Long = -94.3521
+Itteration Centroid 2: Lat = 41.9369      Long = -91.8354
+
+Itteration Centroid 0: Lat = 41.4697      Long = -94.7678
+Itteration Centroid 1: Lat = 42.8556      Long = -94.4135
+Itteration Centroid 2: Lat = 41.9512      Long = -91.8525
+
+Itteration Centroid 0: Lat = 41.442      Long = -94.7355
+Itteration Centroid 1: Lat = 42.8543      Long = -94.48
+Itteration Centroid 2: Lat = 41.9579      Long = -91.866
+
+Itteration Centroid 0: Lat = 41.4163      Long = -94.6779
+Itteration Centroid 1: Lat = 42.851      Long = -94.5535
+Itteration Centroid 2: Lat = 41.9737      Long = -91.8696
+
+Itteration Centroid 0: Lat = 41.3942      Long = -94.629
+Itteration Centroid 1: Lat = 42.843      Long = -94.6202
+Itteration Centroid 2: Lat = 41.9788      Long = -91.8776
+
+Itteration Centroid 0: Lat = 41.3802      Long = -94.5769
+Itteration Centroid 1: Lat = 42.829      Long = -94.6957
+Itteration Centroid 2: Lat = 41.9937      Long = -91.8868
+
+Itteration Centroid 0: Lat = 41.37      Long = -94.511
+Itteration Centroid 1: Lat = 42.8147      Long = -94.7587
+Itteration Centroid 2: Lat = 42.0021      Long = -91.8865
+
+Itteration Centroid 0: Lat = 41.3645      Long = -94.467
+Itteration Centroid 1: Lat = 42.8008      Long = -94.8189
+Itteration Centroid 2: Lat = 42.019      Long = -91.8949
+
+Itteration Centroid 0: Lat = 41.363      Long = -94.4086
+Itteration Centroid 1: Lat = 42.7778      Long = -94.8982
+Itteration Centroid 2: Lat = 42.0371      Long = -91.9063
+
+Itteration Centroid 0: Lat = 41.363      Long = -94.3626
+Itteration Centroid 1: Lat = 42.7545      Long = -94.9388
+Itteration Centroid 2: Lat = 42.0448      Long = -91.9065
+
+Itteration Centroid 0: Lat = 41.3623      Long = -94.3058
+Itteration Centroid 1: Lat = 42.7296      Long = -94.9757
+Itteration Centroid 2: Lat = 42.0541      Long = -91.9025
+
+Itteration Centroid 0: Lat = 41.3703      Long = -94.2596
+Itteration Centroid 1: Lat = 42.7084      Long = -95.0081
+Itteration Centroid 2: Lat = 42.0624      Long = -91.8978
+
+Itteration Centroid 0: Lat = 41.3795      Long = -94.2219
+Itteration Centroid 1: Lat = 42.6866      Long = -95.0542
+Itteration Centroid 2: Lat = 42.073      Long = -91.9052
+
+Itteration Centroid 0: Lat = 41.3831      Long = -94.1529
+Itteration Centroid 1: Lat = 42.6537      Long = -95.0666
+Itteration Centroid 2: Lat = 42.0793      Long = -91.8876
+
+Itteration Centroid 0: Lat = 41.4052      Long = -94.085
+Itteration Centroid 1: Lat = 42.6301      Long = -95.0924
+Itteration Centroid 2: Lat = 42.0877      Long = -91.8677
+
+Itteration Centroid 0: Lat = 41.4269      Long = -94.0319
+Itteration Centroid 1: Lat = 42.607      Long = -95.1133
+Itteration Centroid 2: Lat = 42.0931      Long = -91.8525
+
+Itteration Centroid 0: Lat = 41.4495      Long = -93.9887
+Itteration Centroid 1: Lat = 42.5753      Long = -95.1298
+Itteration Centroid 2: Lat = 42.0899      Long = -91.846
+
+Itteration Centroid 0: Lat = 41.4964      Long = -93.9291
+Itteration Centroid 1: Lat = 42.5312      Long = -95.1674
+Itteration Centroid 2: Lat = 42.0898      Long = -91.8379
+
+Itteration Centroid 0: Lat = 41.5715      Long = -93.8501
+Itteration Centroid 1: Lat = 42.4848      Long = -95.2059
+Itteration Centroid 2: Lat = 42.0851      Long = -91.8067
+
+Itteration Centroid 0: Lat = 41.6823      Long = -93.7622
+Itteration Centroid 1: Lat = 42.41      Long = -95.2688
+Itteration Centroid 2: Lat = 42.0781      Long = -91.7724
+
+Itteration Centroid 0: Lat = 41.8014      Long = -93.689
+Itteration Centroid 1: Lat = 42.3406      Long = -95.3152
+Itteration Centroid 2: Lat = 42.0543      Long = -91.7238
+
+Itteration Centroid 0: Lat = 41.9046      Long = -93.6158
+Itteration Centroid 1: Lat = 42.2714      Long = -95.3438
+Itteration Centroid 2: Lat = 42.0295      Long = -91.6677
+
+Itteration Centroid 0: Lat = 41.9888      Long = -93.5721
+Itteration Centroid 1: Lat = 42.2184      Long = -95.3677
+Itteration Centroid 2: Lat = 41.9984      Long = -91.6196
+
+Itteration Centroid 0: Lat = 42.0287      Long = -93.5462
+Itteration Centroid 1: Lat = 42.1937      Long = -95.3684
+Itteration Centroid 2: Lat = 41.9777      Long = -91.5963
+
+Itteration Centroid 0: Lat = 42.0549      Long = -93.5237
+Itteration Centroid 1: Lat = 42.1752      Long = -95.3643
+Itteration Centroid 2: Lat = 41.9641      Long = -91.5794
+
+Itteration Centroid 0: Lat = 42.0646      Long = -93.5103
+Itteration Centroid 1: Lat = 42.1715      Long = -95.3584
+Itteration Centroid 2: Lat = 41.9555      Long = -91.5711
+
+Itteration Centroid 0: Lat = 42.0677      Long = -93.5049
+Itteration Centroid 1: Lat = 42.1661      Long = -95.3556
+Itteration Centroid 2: Lat = 41.9562      Long = -91.5683
+
+Final Centroid 0: Lat = 42.0677	Long = -93.5049
+Final Centroid 1: Lat = 42.1661	Long = -95.3556
+Final Centroid 2: Lat = 41.9562	Long = -91.5683
+
+Number of times the centroids were updated: 32
+
+Lat           Long                     City       kValue
+-------      -------                  ------      ------
+42.5517     -93.0523                   Ackley         0
+41.3669     -93.4727                 Ackworth         0
+41.5001     -94.6429                    Adair         1
+41.6144     -94.0174                     Adel         0
+41.0275      -94.198                    Afton         0
+40.995     -92.3068                   Agency         2
+41.2889     -91.5524                Ainsworth         2
+42.8289     -96.5595                    Akron         1
+42.7819     -94.9486              Albert_City         1
+41.0267     -92.8058                    Albia         0
+42.1125     -92.9885                   Albion         0
+42.1483     -91.6185                Alburnett         2
+42.5203      -93.376                    Alden         0
+42.8058     -93.4766                Alexander         0
+43.07      -94.233                   Algona         0
+41.82     -93.6116                  Alleman         0
+40.7064     -93.3652                 Allerton         0
+42.7527     -92.7952                  Allison         0
+42.6736     -95.2905                     Alta         1
+43.1986     -92.4171               Alta_Vista         2
+42.9875     -96.0106                    Alton         1
+41.6442     -93.4647                  Altoona         0
+43.3422     -96.3011                   Alvord         1
+41.8     -91.8707                    Amana         2
+42.0347     -93.6199                     Ames         0
+42.1083     -91.2852                  Anamosa         2
+40.8014     -95.6042                 Anderson         1
+41.9792     -90.2518                  Andover         2
+42.1536     -90.5923                   Andrew         2
+41.4453     -94.7647                    Anita         1
+41.7297     -93.6058                   Ankeny         0
+42.3883     -95.8667                   Anthon         1
+42.5842     -92.8844                Aplington         0
+42.0872     -95.0461                  Arcadia         1
+43.1153     -95.7459                   Archer         1
+42.833     -93.0055                  Aredale         0
+41.9492     -95.4636                    Arion         1
+40.9494     -94.2191                   Arispe         0
+42.7492     -91.6713                Arlington         2
+43.3961     -94.4783                Armstrong         1
+43.3727     -95.1239             Arnolds_Park         1
+42.3347     -95.3475                   Arthur         1
+42.5144     -90.7515                   Asbury         2
+43.3114     -95.7911                   Ashton         1
+41.9119     -95.1355                Aspinwall         1
+41.5711      -91.166                 Atalissa         2
+40.5722     -94.5422                Athelstan         1
+41.9969     -91.8621                   Atkins         2
+41.4036     -95.0139                 Atlantic         1
+42.2514     -94.8778                   Auburn         1
+41.718     -94.9325                  Audubon         1
+42.7128     -95.4367                  Aurelia         1
+42.6189     -91.7285                   Aurora         2
+41.4767      -95.338                    Avoca         1
+43.0391     -94.8328                 Ayrshire         1
+42.6144     -94.1461                   Badger         0
+41.8461       -94.43                   Bagley         0
+42.0742     -90.8415                  Baldwin         2
+42.638     -90.8687                 Balltown         2
+43.2927      -94.218                 Bancroft         0
+42.5186     -90.9612                 Bankston         2
+41.5071     -92.4696              Barnes_City         2
+42.5086     -94.3653                   Barnum         0
+40.885      -95.795                 Bartlett         1
+43.063     -92.5155                  Bassett         0
+40.9942     -92.1674                  Batavia         2
+42.3155     -95.5986             Battle_Creek         1
+41.8261     -93.1516                   Baxter         0
+41.8519     -94.5583                   Bayard         1
+41.2769     -92.6796                   Beacon         0
+40.8078     -94.0505             Beaconsfield         0
+42.2197     -92.8235                   Beaman         0
+42.0383     -94.1422                   Beaver         0
+40.8467     -91.2085               Beaverdale         2
+40.6669     -94.7214                  Bedford         1
+41.8969     -92.2782             Belle_Plaine         2
+42.2586     -90.4229                 Bellevue         2
+42.8461     -93.6141                  Belmond         0
+41.7403     -90.9738                  Bennett         2
+41.3769     -95.6203                  Bentley         1
+40.7033     -94.3583                   Benton         0
+41.945     -94.1147                  Berkley         0
+42.3122     -90.8318                  Bernard         2
+41.9497     -91.5354                  Bertram         2
+41.5245     -90.5157               Bettendorf         2
+41.3599     -93.7842                Bevington         0
+40.8789     -91.9471               Birmingham         2
+42.48      -93.643               Blairsburg         0
+41.9094     -92.0844               Blairstown         2
+40.9622     -92.6341               Blakesburg         0
+40.5792     -95.2216                Blanchard         1
+41.9303     -96.0808                  Blencoe         1
+40.6155     -94.4772                 Blockton         0
+40.7517     -92.4149               Bloomfield         2
+41.5096     -90.7649               Blue_Grass         2
+42.8683     -94.2897                     Bode         0
+43.3719     -93.1194                    Bolan         0
+40.6981     -91.8032                Bonaparte         2
+41.7005     -93.4622                Bondurant         0
+42.0597     -93.8802                    Boone         0
+41.8514     -94.0091                   Bouton         0
+42.1758     -94.1061                  Boxholm         0
+43.1911     -96.0058                   Boyden         1
+40.5789       -95.03              Braddyville         1
+42.633     -93.2449                 Bradford         0
+42.803      -94.418                 Bradgate         1
+42.3144     -92.0021                  Brandon         2
+41.5444     -94.9241                  Brayton         1
+42.1816     -94.9769                    Breda         1
+41.245     -94.6689              Bridgewater         1
+41.1747     -91.8196                 Brighton         2
+42.7739     -92.9074                  Bristow         0
+43.0977     -93.8019                    Britt         0
+42.4108     -96.2139                  Bronson         1
+41.7336     -92.4455                 Brooklyn         2
+42.8097     -96.2692               Brunsville         1
+42.4172     -93.3749                  Buckeye         0
+41.918     -95.3961               Buck_Grove         1
+41.4564     -90.7235                  Buffalo         2
+43.3858     -93.9466           Buffalo_Center         0
+43.0652     -93.2783                Burchinal         0
+40.8075     -91.1129               Burlington         2
+43.4589     -91.8654                 Burr_Oak         2
+43.1975     -94.2197                     Burt         0
+41.2045     -92.8827                   Bussey         0
+41.8259     -90.7582                  Calamus         2
+41.5586     -95.9947      California_Junction         1
+42.3619     -94.2958                Callender         0
+43.1836     -91.8641                   Calmar         2
+42.9464       -95.55                  Calumet         1
+41.7881     -90.2562                 Camanche         2
+41.8983     -93.5291                Cambridge         0
+40.6442     -92.0699                  Cantril         2
+41.05     -94.8233                   Carbon         1
+41.518     -93.4852                 Carlisle         0
+43.415     -93.0149                Carpenter         0
+42.0658     -94.8669                  Carroll         1
+41.2367     -95.4181                   Carson         1
+41.2906     -95.9181              Carter_Lake         1
+42.3019     -91.0046                  Cascade         2
+41.5075     -94.5213                    Casey         1
+43.1119     -91.6763                 Castalia         2
+42.0744     -95.9086                  Castana         1
+42.5278     -92.4455              Cedar_Falls         2
+42.0083     -91.6441             Cedar_Rapids         2
+42.1161     -91.0871          Center_Junction         2
+42.1908     -91.7852             Center_Point         2
+40.7342     -92.8741              Centerville         0
+42.2039     -91.5241             Central_City         2
+42.4722     -90.8371                Centralia         2
+42.8336     -93.2221                   Chapin         0
+41.0139     -93.3066                 Chariton         0
+43.0664     -92.6724             Charles_City         0
+41.9603     -90.4651                Charlotte         2
+42.0683     -95.5917              Charter_Oak         1
+42.9161     -96.5164               Chatsworth         1
+41.9192     -92.3946                  Chelsea         2
+42.7494     -95.5517                 Cherokee         1
+43.4911     -92.3605                  Chester         2
+41.0856     -92.5294              Chillicothe         2
+42.1519     -94.4744                  Churdan         1
+40.6309     -92.9246               Cincinnati         0
+42.5872     -94.3455                    Clare         0
+41.8889     -91.0565                 Clarence         2
+40.7419     -95.0383                 Clarinda         1
+42.7316      -93.733                  Clarion         0
+42.7847     -92.6677              Clarksville         0
+42.9039     -91.1474                  Clayton         2
+40.8006     -94.4831               Clearfield         0
+43.138     -93.3794               Clear_Lake         0
+42.8122     -95.7128                 Cleghorn         1
+42.1139      -93.156                  Clemons         0
+43.0036     -91.6524                 Clermont         2
+42.3417     -96.0778            Climbing_Hill         1
+41.8445     -90.1887                  Clinton         2
+40.635     -93.4513                     Clio         0
+41.6132     -93.7979                    Clive         0
+42.0794     -92.4021                  Clutier         2
+42.4453     -94.1258                Coalville         0
+40.9175     -95.2644                   Coburg         1
+42.2808     -91.5304                   Coggon         2
+40.6544     -95.2303                     Coin         1
+42.6394     -91.2021                Colesburg         2
+41.6778     -93.2452                   Colfax         0
+40.6192     -95.1208          College_Springs         1
+41.9028     -93.3063                  Collins         0
+42.0178     -93.3152                     Colo         0
+41.2586     -91.3743            Columbus_City         2
+41.28     -91.3607        Columbus_Junction         2
+43.1558     -92.5941                  Colwell         0
+41.382     -91.3499               Conesville         2
+42.2247     -92.8747                   Conrad         0
+41.7292     -91.9977                   Conroy         2
+40.7486     -94.6189                   Conway         1
+41.8748     -94.6784              Coon_Rapids         1
+41.1642     -91.7148                  Coppock         2
+41.6764     -91.5804               Coralville         2
+41.5786     -95.3303                   Corley         1
+40.99     -94.7408                  Corning         1
+42.475     -95.7856          Correctionville         1
+42.9927     -93.9574                  Corwith         0
+40.757     -93.3188                  Corydon         0
+41.292     -91.4616                   Cotter         2
+42.7372     -93.3699                  Coulter         0
+41.2619     -95.8608           Council_Bluffs         1
+42.8958     -96.3097                    Craig         1
+41.2146     -91.5373           Crawfordsville         2
+41.365     -95.8581                 Crescent         1
+43.3814     -92.1141                   Cresco         2
+41.0586     -94.3614                  Creston         0
+41.0394     -94.4619                 Cromwell         0
+43.2233     -93.7924             Crystal_Lake         0
+41.2742     -94.8703               Cumberland         1
+41.4833     -93.7624                  Cumming         0
+42.9789     -94.7411                   Curlew         1
+42.4647      -95.675                  Cushing         1
+43.0889      -94.553                 Cylinder         1
+42.7222     -94.1972              Dakota_City         0
+41.6844     -93.9611            Dallas_Center         0
+42.1075     -94.2408                     Dana         0
+42.2342     -95.7222                  Danbury         1
+40.8645     -91.3146                 Danville         2
+41.5236     -90.5776                Davenport         2
+40.6392     -93.8116               Davis_City         0
+41.8428     -94.2225                   Dawson         0
+42.2614     -94.0686                   Dayton         0
+40.7419     -93.8338             Decatur_City         0
+43.3033     -91.7857                  Decorah         2
+41.9061     -94.8222                   Dedham         1
+41.5803     -92.3749               Deep_River         2
+41.8242     -95.3428                 Defiance         1
+42.4753     -91.3454                 Delaware         2
+42.4297      -91.331                    Delhi         2
+42.0022     -90.6071                   Delmar         2
+42.0978     -95.3225                   Deloit         1
+40.6636     -94.3394                  Delphos         0
+41.3228     -92.3302                    Delta         2
+42.0178     -95.3553                  Denison         1
+40.7417     -91.3374                  Denmark         2
+42.6714     -92.3374                   Denver         2
+40.9317     -93.4563                    Derby         0
+41.5726     -93.6102               Des_Moines         0
+41.5317     -94.0097                  De_Soto         0
+41.8234     -90.5382                  De_Witt         2
+41.5183     -94.2263                   Dexter         0
+40.8094     -94.3422                 Diagonal         0
+41.5521     -94.2622         Diamondhead_Lake         0
+43.1314     -95.0236                  Dickens         1
+42.4641     -92.6282                     Dike         0
+41.7428     -90.7824                    Dixon         2
+43.4644     -94.6253                 Dolliver         1
+41.6947     -90.6754                  Donahue         2
+40.6428     -91.5646               Donnellson         2
+43.2794     -96.2328                     Doon         1
+40.8395     -92.0866                    Douds         2
+42.9222     -93.0421                Dougherty         0
+41.9289     -95.4939                 Dow_City         1
+42.6618     -93.5055                     Dows         0
+40.7983     -92.4816              Drakesville         2
+42.5006     -90.6646                  Dubuque         2
+42.7519     -92.9755                   Dumont         0
+43.1047     -93.7113                   Duncan         0
+42.4705     -93.9936                 Duncombe         0
+42.5791     -91.5465                   Dundee         2
+42.57     -92.1605                Dunkerton         2
+41.8525     -95.6012                   Dunlap         1
+42.5603     -90.7757                  Durango         2
+41.6015     -90.9119                   Durant         2
+42.4815     -91.1166               Dyersville         2
+42.1717     -92.3063                   Dysart         2
+42.6641     -93.9044              Eagle_Grove         0
+41.4919     -94.1241                  Earlham         0
+41.7755     -95.4175                  Earling         1
+42.4817     -91.2724                Earlville         2
+42.4614     -95.1519                    Early         1
+41.8092      -91.851               East_Amana         2
+41.2269     -93.9263                East_Peru         0
+41.1592     -92.6298                Eddyville         0
+42.6442     -91.4017                 Edgewood         2
+42.0061     -92.3169                  Elberon         2
+40.9186      -92.223                    Eldon         2
+42.3608     -93.0996                   Eldora         0
+41.6581     -90.5846                 Eldridge         2
+42.9575     -91.6307                    Elgin         2
+42.8539     -91.4054                  Elkader         2
+41.7916     -93.5222                  Elkhart         0
+41.5917       -95.06                 Elk_Horn         1
+42.7397     -91.2779                  Elkport         2
+42.4669     -92.2566          Elk_Run_Heights         2
+41.1492     -95.1639                  Elliott         1
+40.8403     -94.1086                  Ellston         0
+42.3128     -93.5788                Ellsworth         0
+43.2466      -92.436                     Elma         2
+41.8736     -91.5852                      Ely         2
+41.0172     -95.4022                  Emerson         1
+43.1127      -94.683               Emmetsburg         1
+42.445     -90.9321                  Epworth         2
+40.8336     -95.3083                    Essex         1
+43.4016     -94.8328              Estherville         1
+42.4691      -92.281                Evansdale         2
+43.16     -95.3275                   Everly         1
+41.5908     -94.8755                    Exira         1
+40.6492     -92.8405                   Exline         0
+42.6401     -92.0478                 Fairbank         2
+41.9194      -91.781                  Fairfax         2
+41.0086     -91.9627                Fairfield         2
+42.4428     -91.0062                   Farley         2
+42.9611     -91.3679              Farmersburg         2
+40.6403     -91.7429               Farmington         2
+42.2765     -94.4077             Farnhamville         0
+40.7219     -95.4808                 Farragut         1
+42.8419     -91.8021                  Fayette         2
+43.2197     -94.4305                   Fenton         1
+41.9369     -92.8658                 Ferguson         0
+43.2644     -93.4183                  Fertile         0
+40.865      -92.333                   Floris         2
+43.1277     -92.7363                    Floyd         0
+42.5814     -94.8461                    Fonda         1
+41.2897     -94.5616               Fontanelle         1
+43.257     -93.6364              Forest_City         0
+43.1433     -91.9327            Fort_Atkinson         2
+42.4975      -94.168               Fort_Dodge         0
+40.6298     -91.3152             Fort_Madison         2
+43.2422     -95.1556                 Fostoria         1
+40.6681     -91.5113                 Franklin         2
+42.1272      -93.965                   Fraser         0
+42.9652     -92.1996           Fredericksburg         2
+42.8817     -92.3082                Frederika         2
+41.2848     -91.3388                 Fredonia         2
+41.2125     -92.4355                  Fremont         2
+41.3561     -91.1293                Fruitland         2
+41.57     -91.7324                  Frytown         2
+42.6936     -93.6055                     Galt         0
+42.5069     -95.4172                    Galva         1
+42.7419     -91.2621                   Garber         2
+42.2455     -93.3955              Garden_City         0
+40.8272     -93.6072             Garden_Grove         0
+42.8686      -91.236               Garnavillo         2
+43.1025     -93.6019                   Garner         0
+42.1442     -92.1438                 Garrison         2
+42.0936     -92.6757                   Garwin         0
+42.6755     -93.1294                   Geneva         0
+43.3439     -96.0022                   George         1
+41.4811     -92.3935                   Gibson         2
+42.1069     -93.6497                  Gilbert         0
+42.4161     -92.2149             Gilbertville         2
+43.0158     -95.0375            Gillett_Grove         1
+41.8789     -92.7894                   Gilman         0
+42.7269     -94.4369             Gilmore_City         1
+42.1878     -92.7152                Gladbrook         0
+41.0469     -95.7425                 Glenwood         1
+42.0569     -94.7289                  Glidden         1
+42.7358     -93.9208                Goldfield         0
+42.923     -93.6163                  Goodell         0
+41.9675     -90.3829               Goose_Lake         2
+42.2805     -94.2908                   Gowrie         0
+43.2377     -94.7514              Graettinger         1
+42.4931     -90.8712                     Graf         2
+43.33     -93.0694                  Grafton         0
+42.0316     -94.2408           Grand_Junction         0
+41.8242     -90.6479              Grand_Mound         2
+40.8194     -93.9625              Grand_River         0
+41.2759     -91.1885                Grandview         2
+41.762     -93.8248                  Granger         0
+41.1428     -94.9847                    Grant         1
+42.9855     -95.8736                Granville         1
+40.7605     -94.7436                  Gravity         1
+41.8394      -94.983                     Gray         1
+42.5858     -91.3415                  Greeley         2
+42.8968     -92.8039                   Greene         0
+41.3053     -94.4613               Greenfield         0
+42.1016     -92.8205           Green_Mountain         0
+43.0166     -95.1461               Greenville         1
+41.6788     -93.8028                   Grimes         0
+41.743     -92.7224                 Grinnell         0
+41.235     -95.1375                 Griswold         1
+42.3616     -92.7685            Grundy_Center         0
+43.3933     -94.7053                   Gruver         1
+41.6486     -92.3427                 Guernsey         2
+41.6772     -94.5033           Guthrie_Center         1
+42.7858     -91.0996               Guttenberg         2
+42.0069       -94.97                   Halbur         1
+40.6044     -95.6578                  Hamburg         1
+41.1692     -92.9033                 Hamilton         0
+42.7419     -93.2024                  Hampton         0
+41.39     -95.3625                  Hancock         1
+43.2802     -93.3788               Hanlontown         0
+42.7578     -93.1041                  Hansell         0
+42.2627     -94.1758                 Harcourt         0
+42.8105     -94.0513                    Hardy         0
+41.653     -95.3256                   Harlan         1
+41.3625      -92.051                   Harper         2
+43.2005     -91.1532            Harpers_Ferry         2
+43.4452     -95.4342                   Harris         1
+41.4594     -93.4049                 Hartford         0
+43.18      -95.477                  Hartley         1
+41.7847     -92.3435                 Hartwick         2
+41.3158     -92.9241                   Harvey         0
+41.0228     -95.4992                 Hastings         1
+42.8361     -94.7005                 Havelock         1
+41.945     -92.9608                Haverhill         0
+42.9958     -96.4853                 Hawarden         1
+42.9386     -91.9502                  Hawkeye         2
+41.2645     -92.2491               Hayesville         2
+43.1766     -93.6952                 Hayfield         0
+42.6208     -91.9002                 Hazleton         2
+41.1725     -92.3088                  Hedrick         2
+41.1405     -95.4311                Henderson         1
+40.8492     -95.0172                  Hepburn         1
+42.0358     -91.6821                 Hiawatha         2
+41.8033     -91.9382               High_Amana         2
+41.5542     -91.5349                    Hills         2
+40.8367     -91.7157                Hillsboro         2
+42.6278     -96.2917                   Hinton         1
+41.821     -92.4432             Holiday_Lake         2
+42.3989     -92.8005                  Holland         0
+42.4892      -95.545                 Holstein         1
+42.6005     -90.9957               Holy_Cross         2
+41.7595     -91.8671                Homestead         2
+42.3439     -91.2485                Hopkinton         2
+42.2306     -96.0975                  Hornick         1
+43.0719     -95.9045                  Hospers         1
+40.7836     -91.6029                 Houghton         2
+42.3055     -93.3002                  Hubbard         0
+42.4066     -92.4555                   Hudson         2
+43.1886     -96.1336                     Hull         1
+42.7208     -94.2152                 Humboldt         0
+40.8589     -93.4974                 Humeston         0
+43.0916     -93.8811                 Hutchins         0
+41.8953     -93.6008                   Huxley         0
+42.345     -95.4717                Ida_Grove         1
+40.8794     -95.4269                  Imogene         1
+42.4686     -91.8893             Independence         2
+41.358     -93.5574                Indianola         0
+43.3072      -96.432                   Inwood         1
+43.0341      -92.456                    Ionia         2
+41.6611     -91.5302                Iowa_City         2
+42.5225     -93.2513               Iowa_Falls         0
+42.9747     -96.3184                   Ireton         1
+43.0075     -94.1955                Irvington         0
+41.7916     -95.2058                    Irwin         1
+43.115     -92.0324         Jackson_Junction         2
+41.6453       -95.15             Jacksonville         1
+41.8461     -94.3097                  Jamaica         0
+42.6458     -92.4624               Janesville         2
+42.0153     -94.3775                Jefferson         0
+42.4745     -92.0659                    Jesup         2
+42.3102     -93.6388          Jewell_Junction         0
+41.673     -93.6977                 Johnston         0
+43.3627     -93.4538                    Joice         0
+42.4789     -94.7189                   Jolley         1
+41.4831      -91.706                   Kalona         2
+42.3922     -93.7294                   Kamrar         0
+42.9377     -93.7933                  Kanawha         0
+40.7108     -94.0499                Kellerton         0
+41.9505     -93.6652                   Kelley         0
+41.718     -92.9074                  Kellogg         0
+43.3536     -93.2105                  Kensett         0
+40.9525     -94.4544                     Kent         0
+40.3973     -91.3849                   Keokuk         2
+41.2883     -92.5366           Keomah_Village         2
+40.7303     -91.9624                Keosauqua         2
+41.3654     -91.9534                    Keota         2
+41.4525     -92.2394                  Keswick         2
+41.9983     -92.1974                 Keystone         2
+41.6286      -95.073               Kimballton         1
+42.5883     -95.9675                 Kingsley         1
+41.4608     -91.9868                  Kinross         2
+41.7286     -95.2653                  Kirkman         1
+41.1456     -92.5041                Kirkville         2
+42.1955     -95.3278                    Kiron         1
+43.0069      -93.603                   Klemme         0
+42.4555     -94.4569                  Knierim         1
+41.3208     -93.1094                Knoxville         0
+41.1897      -93.383                   Lacona         0
+41.7547     -92.1835                   Ladora         2
+42.2675     -94.7339                Lake_City         1
+43.4194     -93.5333               Lake_Mills         0
+41.7111     -94.3906            Lake_Panorama         0
+43.4555     -95.3208                Lake_Park         1
+42.6214     -95.1733                 Lakeside         1
+42.302     -95.0358                Lake_View         1
+43.3772     -94.0939                   Lakota         0
+41.703     -93.0794              Lambs_Grove         0
+40.6228     -93.9341                   Lamoni         0
+42.5986     -91.6421                   Lamont         2
+42.2959      -90.621                 La_Motte         2
+42.1844     -94.6914                Lanesboro         1
+43.3622     -91.2165                  Lansing         2
+42.315     -92.1921            La_Porte_City         2
+43.4536     -96.4342                Larchwood         1
+42.8608     -95.5453                 Larrabee         1
+42.7633     -93.3683                  Latimer         0
+41.8842     -92.9221                   Laurel         0
+42.8466     -94.8519                  Laurens         1
+43.0705     -92.1502                   Lawler         2
+42.4786     -96.1839                   Lawton         1
+40.8336     -92.0888                   Leando         2
+41.5986     -90.3435                Le_Claire         2
+43.4216     -94.1622                  Ledyard         0
+42.0063     -92.7751                 Le_Grand         0
+42.36     -94.0522                   Lehigh         0
+41.3372     -92.7871                 Leighton         0
+43.3372     -93.6352                   Leland         0
+42.7942     -96.1656                  Le_Mars         1
+40.8832     -94.5587                    Lenox         1
+40.7397     -93.7477                     Leon         0
+40.8778     -93.5927                   Le_Roy         0
+43.4447     -96.3331                   Lester         1
+41.3284     -91.2371                    Letts         2
+41.3058     -95.0833                    Lewis         1
+40.9575     -92.0513             Libertyville         2
+42.1244      -94.783               Lidderdale         1
+43.4489     -92.2807             Lime_Springs         2
+42.2628     -92.6919                  Lincoln         0
+41.6444     -94.2691                   Linden         0
+40.5814     -93.5238                Lineville         0
+42.8916     -95.2467               Linn_Grove         1
+41.9211     -91.3855                   Lisbon         2
+42.19     -93.0038                  Liscomb         0
+43.3802     -92.7257             Little_Cedar         0
+43.4441     -95.8833              Little_Rock         1
+41.8094     -96.0211             Little_Sioux         1
+42.8686     -94.1852                Livermore         0
+40.9948     -91.7482                Lockridge         2
+41.6431     -95.7889                    Logan         1
+42.2703     -94.5486                Lohrville         1
+43.2186     -94.3269                Lone_Rock         0
+41.4881      -91.426                Lone_Tree         2
+41.6975     -90.5826               Long_Grove         2
+41.1283     -94.0533                  Lorimor         0
+41.9639     -90.8176              Lost_Nation         2
+41.4972       -95.89                 Loveland         1
+41.1358     -92.9041                  Lovilia         0
+41.8575     -90.9282                   Lowden         2
+41.8017     -90.3548                 Low_Moor         2
+43.0603      -91.454                    Luana         2
+41.0283     -93.4599                    Lucas         0
+41.9678     -93.8188                   Luther         0
+42.9092     -94.0836                 Lu_Verne         0
+42.6028      -91.074                Luxemburg         2
+41.898     -92.1799                  Luzerne         2
+41.5775     -92.7835                Lynnville         0
+42.4233     -94.8605                   Lytton         1
+41.1928     -95.4256                Macedonia         1
+41.2147     -94.1852                Macksburg         0
+41.8766     -93.8233                   Madrid         0
+41.6958     -95.8767                 Magnolia         1
+41.0525     -91.9949     Maharishi_Vedic_City         2
+41.7083     -92.5591                   Malcom         0
+42.9364     -94.6822                  Mallard         1
+40.6744     -94.4122                    Maloy         0
+41.0028     -95.5853                  Malvern         1
+42.4841     -91.4554               Manchester         2
+41.8897     -95.2322                  Manilla         1
+43.2872     -93.2022                    Manly         0
+41.9091      -95.065                  Manning         1
+42.5291     -94.5341                   Manson         1
+42.1658     -95.7931                 Mapleton         1
+42.0605     -90.6639                Maquoketa         2
+42.8616     -94.9825                 Marathon         1
+42.9652     -92.8685              Marble_Rock         0
+42.8258     -95.8075                   Marcus         1
+41.7981     -92.0707                  Marengo         2
+42.0342     -91.5977                   Marion         2
+41.4514     -95.1114                    Marne         1
+43.0444     -91.1782                Marquette         2
+42.0494      -92.908             Marshalltown         0
+42.0217     -91.3599                 Martelle         2
+41.373     -93.7358              Martensdale         0
+41.1789     -92.2519              Martinsburg         2
+41.1806     -92.9491               Marysville         0
+43.1536      -93.201               Mason_City         0
+42.4794     -91.5913               Masonville         2
+41.2542     -94.7683                  Massena         1
+43.2439     -95.9353                  Matlock         1
+42.9664     -96.1806                  Maurice         1
+41.8919     -93.3996                  Maxwell         0
+42.7739     -91.8824                  Maynard         2
+41.6486     -90.7168                Maysville         2
+42.1664     -93.3858              McCallsburg         0
+41.7461     -90.4432               McCausland         2
+41.3294     -95.6839               McClelland         1
+43.0183     -91.1826                 McGregor         2
+43.4358     -92.5938                 McIntire         0
+41.9045     -91.2546           Mechanicsville         2
+41.0081      -91.164               Mediapolis         2
+41.9414     -93.1033                Melbourne         0
+41.225     -93.2413           Melcher-Dallas         0
+40.9761     -93.0505                  Melrose         0
+43.2875     -95.6092                   Melvin         1
+41.5192     -94.4044                    Menlo         0
+42.7947     -95.6345                  Meriden         1
+42.7197     -96.2486                  Merrill         1
+42.9127     -93.4783                 Meservey         0
+43.4577     -92.6927                    Meyer         0
+41.7956     -91.8996             Middle_Amana         2
+40.8284      -91.259               Middletown         2
+42.0484     -90.3157                    Miles         2
+43.3247       -95.15                  Milford         1
+43.1841     -93.6002                   Miller         0
+41.5733     -92.1599              Millersburg         2
+40.8494     -93.3055                Millerton         0
+41.2917     -93.4424                     Milo         0
+40.6734     -92.1621                   Milton         2
+41.7564     -94.0275                  Minburn         0
+41.4669     -95.5428                   Minden         1
+41.1431     -95.6956                  Mineola         1
+41.7675     -93.2835                    Mingo         0
+41.5564     -95.8878          Missouri_Valley         1
+43.3219     -92.8677                 Mitchell         0
+41.6681     -93.3639            Mitchellville         0
+41.6197      -96.012                   Modale         1
+43.4872     -92.9413                     Mona         0
+41.7105     -96.0217                 Mondamin         1
+42.077     -90.8799                 Monmouth         2
+43.0517     -91.3893                   Monona         2
+41.5222     -93.1019                   Monroe         0
+41.5858     -92.5274                Montezuma         2
+42.2383     -91.1871               Monticello         2
+41.9814     -92.7149                  Montour         0
+40.5323     -91.4149                 Montrose         2
+41.9225     -95.8514                 Moorhead         1
+42.4416      -94.295                 Moorland         0
+40.8917       -92.82                  Moravia         0
+42.0061     -91.2463                   Morley         2
+41.0961     -91.2576              Morning_Sun         2
+42.3441     -92.6738                 Morrison         0
+40.6859     -92.6774                  Moulton         0
+42.255     -92.0927             Mount_Auburn         2
+40.7147     -94.2352                Mount_Ayr         0
+40.9636     -91.5579           Mount_Pleasant         2
+40.6178     -91.9321           Mount_Sterling         2
+41.0578     -91.3904              Mount_Union         2
+41.922     -91.4168             Mount_Vernon         2
+42.4889     -96.0725                  Moville         1
+41.0417     -93.9494                   Murray         0
+41.4245     -91.0432                Muscatine         2
+40.7775     -92.9438                   Mystic         0
+42.9504     -92.5425                   Nashua         0
+42.5158     -95.0883                   Nemaha         1
+41.4489     -95.6156                    Neola         1
+42.0228     -93.4524                   Nevada         0
+43.4966     -91.2896                New_Albin         2
+42.6055     -95.0028                   Newell         1
+41.9956     -91.9677                  Newhall         2
+43.0591     -92.3177              New_Hampton         2
+42.5669     -92.6221             New_Hartford         0
+43.2844     -92.6421                New_Haven         0
+41.7178      -90.879              New_Liberty         2
+40.927     -91.3996               New_London         2
+40.7311     -94.8997               New_Market         1
+42.2811     -93.1716           New_Providence         0
+41.47     -92.6513               New_Sharon         0
+41.6997      -93.048                   Newton         0
+42.5481     -91.1143               New_Vienna         2
+41.1822     -93.7288             New_Virginia         0
+41.4811     -91.3077                  Nichols         2
+40.9372      -94.895                  Nodaway         1
+43.1441     -93.0089             Nora_Springs         0
+40.6078     -95.2917                Northboro         1
+42.6797     -90.9565        North_Buena_Vista         2
+41.5164     -92.0776            North_English         2
+41.7492     -91.5979            North_Liberty         2
+43.118     -92.4168         North_Washington         2
+43.4441      -93.221                Northwood         0
+41.4917     -93.7021                  Norwalk         0
+41.9028     -91.9216                   Norway         2
+40.6881      -92.978                     Numa         0
+41.3092     -95.3967                  Oakland         1
+41.7172     -92.8205            Oakland_Acres         0
+41.0998     -91.0446                 Oakville         2
+43.4161     -95.5347                Ocheyedan         1
+42.3122     -95.2506                  Odebolt         1
+42.6733     -91.9135                  Oelwein         2
+42.0391     -94.0277                    Ogden         0
+43.3864     -95.1483                  Okoboji         1
+41.1342     -91.5449                     Olds         2
+41.9981     -91.1415                     Olin         2
+41.1981     -92.0924                    Ollie         2
+42.0266     -96.0972                    Onawa         1
+42.107     -91.0152                   Onslow         2
+43.0072     -96.0584              Orange_City         1
+43.2275     -92.7721                  Orchard         0
+41.203     -94.4147                   Orient         0
+43.4472     -95.0925                  Orleans         1
+43.2841      -92.811                    Osage         0
+41.0339     -93.7655                  Osceola         0
+41.2964     -92.6444                Oskaloosa         0
+43.1464     -91.7646                   Ossian         2
+42.7336     -91.1579                Osterdock         2
+42.4247     -94.1502                     Otho         0
+42.2839     -95.8931                      Oto         1
+43.4583     -92.9857                  Otranto         0
+42.895       -94.38                  Ottosen         0
+41.02     -92.4113                  Ottumwa         2
+42.4336     -93.2071                    Owasa         0
+41.7233     -91.7905                   Oxford         2
+41.9836     -90.9563          Oxford_Junction         2
+42.8203     -96.0578                    Oyens         1
+41.0186     -95.7992         Pacific_Junction         1
+41.1328     -92.0827                 Packwood         2
+42.6305     -94.6005                   Palmer         1
+42.0661     -91.7955                     Palo         2
+41.7264     -95.4722                   Panama         1
+41.6917      -94.363                   Panora         0
+41.5556     -90.4532            Panorama_Park         2
+42.5775     -92.7869              Parkersburg         0
+41.6942     -90.5457                Park_View         2
+41.5831     -92.0041                  Parnell         2
+42.1644     -94.2552                    Paton         0
+41.3483     -93.8805                Patterson         0
+42.9791     -95.6881                 Paullina         1
+41.4051     -92.9177                    Pella         0
+42.4506     -90.8504                   Peosta         2
+40.7489     -95.8136                 Percival         1
+41.8386     -94.1072                    Perry         0
+41.58     -95.5681                   Persia         1
+42.918     -95.3439                 Peterson         1
+42.5442     -95.8675                  Pierson         1
+42.1644     -94.0166              Pilot_Mound         0
+42.6539     -94.3925                  Pioneer         0
+41.8314     -95.9256                   Pisgah         1
+42.8475     -92.5371               Plainfield         0
+40.7556     -93.0466                    Plano         0
+41.5839     -93.5199            Pleasant_Hill         0
+40.5806     -93.7438               Pleasanton         0
+41.1472     -91.8591           Pleasant_Plain         2
+41.3858     -93.2694            Pleasantville         0
+42.8783     -94.6205                   Plover         1
+43.2458      -93.123                 Plymouth         0
+42.7355     -94.6692               Pocahontas         1
+41.7714      -93.713                Polk_City         0
+42.5511     -94.6839                  Pomeroy         1
+42.5939      -93.426                  Popejoy         0
+43.1286     -93.1235                 Portland         0
+41.6503     -95.5186               Portsmouth         1
+43.084     -91.5682                Postville         2
+42.2383     -91.4224              Prairieburg         2
+41.5994     -93.2352             Prairie_City         0
+41.023     -94.6136                 Prescott         1
+42.0503      -90.414                  Preston         2
+43.0869     -95.6272                 Primghar         1
+41.6748     -90.3404                Princeton         2
+40.7475     -93.1471             Promise_City         0
+43.2164     -92.0891                 Protivin         2
+40.697     -92.2732                  Pulaski         2
+42.3944      -91.761               Quasqueton         2
+42.6303     -95.6419                   Quimby         1
+42.3153     -93.4344                Radcliffe         0
+43.4838     -93.9188                     Rake         0
+42.0418     -94.6293                  Ralston         1
+42.863     -91.8857                 Randalia         2
+42.2383     -93.6008                  Randall         0
+40.873     -95.5664                 Randolph         1
+40.8011     -92.8888                  Rathbun         0
+42.4689     -92.2196                  Raymond         2
+42.7022     -92.2255                  Readlyn         2
+41.5783     -93.0233                  Reasnor         0
+40.6047     -94.3877                  Redding         0
+41.5894     -94.1961                 Redfield         0
+41.0097     -95.2255                  Red_Oak         1
+42.3236     -92.5994                 Reinbeck         0
+42.8255     -95.1664                Rembrandt         1
+42.8147     -95.9733                   Remsen         1
+42.828     -93.9811                  Renwick         0
+41.9255     -93.1863                   Rhodes         0
+43.3625     -92.5533                Riceville         0
+41.1856     -91.9929                 Richland         2
+42.5833      -90.884            Rickardsville         2
+42.1269      -95.575                 Ricketts         1
+43.2978     -91.9877                 Ridgeway         2
+42.3397     -94.4886                   Rinard         1
+43.2947     -94.5116                 Ringsted         1
+41.9339     -94.2014                   Rippey         0
+41.5445     -90.4582                Riverdale         2
+41.4797     -91.5813                Riverside         2
+41.8058     -96.0464              River_Sioux         1
+40.687     -95.5686                 Riverton         1
+42.0711     -91.6668                   Robins         2
+41.6739     -91.1585                Rochester         2
+43.2075     -93.0846               Rock_Falls         0
+43.0522     -92.9485                 Rockford         0
+43.4272     -96.1759              Rock_Rapids         1
+43.2053      -96.295              Rock_Valley         1
+42.9852     -93.1919                 Rockwell         0
+42.3953     -94.6339            Rockwell_City         1
+43.0286     -94.5311                   Rodman         1
+42.2056     -95.9525                   Rodney         1
+42.1664     -93.5019                   Roland         0
+42.8128     -94.5269                    Rolfe         1
+40.9814     -91.6824                     Rome         2
+41.322     -92.4621                Rose_Hill         2
+43.0091     -92.8099                Roseville         0
+43.0133     -95.1886                   Rossie         1
+42.7408     -93.5527                    Rowan         0
+42.37     -91.8441                   Rowley         2
+43.0655     -95.2839                    Royal         1
+43.1261     -92.9057                     Rudd         0
+41.5111     -93.3574                 Runnells         0
+40.9819     -93.1985                  Russell         0
+43.1291     -94.8992                  Ruthven         1
+42.7591     -94.2977                  Rutland         0
+42.3514     -91.4815                     Ryan         2
+42.0711      -90.174                   Sabula         2
+42.4222     -94.9897                 Sac_City         1
+42.5528      -90.709                Sageville         2
+40.8528     -91.6202                    Salem         2
+42.3083     -96.2878                    Salix         1
+43.1816     -95.6556                  Sanborn         1
+41.3708     -93.3863               Sandyville         0
+41.6786     -93.6297              Saylorville         0
+43.4705     -93.6177                Scarville         0
+42.4997      -95.293                 Schaller         1
+42.1653     -95.4369                Schleswig         1
+42.0225     -94.5452                 Scranton         1
+41.5806     -92.7035                Searsboro         0
+42.4039     -96.3586           Sergeant_Bluff         1
+43.0827     -94.0891                   Sexton         0
+40.6825      -93.121                  Seymour         0
+40.6589     -95.0319                Shambaugh         1
+40.8987     -94.2636             Shannon_City         0
+40.8025     -94.6425               Sharpsburg         1
+42.8933     -93.2152                Sheffield         0
+41.5067     -95.4506                   Shelby         1
+41.8643     -93.6967                 Sheldahl         0
+43.1796      -95.844                  Sheldon         1
+42.7103      -92.583               Shell_Rock         0
+42.0944     -91.8693               Shellsburg         2
+40.7583     -95.3721               Shenandoah         1
+42.6039     -90.7846                 Sherrill         2
+41.8506     -91.6466               Shueyville         2
+43.3991      -95.752                   Sibley         1
+40.7483     -95.6475                   Sidney         1
+41.3333     -92.2046                Sigourney         2
+41.1133     -95.6372              Silver_City         1
+43.0797     -96.1756             Sioux_Center         1
+42.4957     -96.3905               Sioux_City         1
+42.8933     -95.1511             Sioux_Rapids         1
+41.8778     -93.6786                   Slater         0
+42.2328     -96.2281                    Sloan         1
+42.2292     -95.9308                Smithland         1
+41.9853     -95.7794                  Soldier         1
+41.8072     -91.4941                    Solon         2
+42.3783       -94.43                   Somers         1
+41.7761     -91.9674              South_Amana         2
+41.4522     -92.0905            South_English         2
+43.1414     -95.1444                  Spencer         1
+43.205      -91.951               Spillville         2
+43.4222     -95.1022              Spirit_Lake         1
+42.0725     -90.4351             Spragueville         2
+42.1642     -90.4765              Springbrook         2
+41.4114     -93.6449              Spring_Hill         0
+42.0594     -91.4427              Springville         2
+43.4361     -92.7824               Stacyville         0
+42.2889     -93.7961                 Stanhope         0
+42.642     -91.8119                  Stanley         2
+43.3783     -92.9188               St._Ansgar         0
+42.1222     -93.1949              St._Anthony         0
+40.9817     -95.1042                  Stanton         1
+41.8931     -91.1507                 Stanwood         2
+42.0166     -93.1635             State_Center         0
+43.038     -94.0644             St._Benedict         0
+41.2883     -93.8094              St._Charles         0
+42.3608     -90.5393              St._Donatus         2
+42.4094     -93.0658           Steamboat_Rock         0
+42.9133     -94.2272               St._Joseph         0
+43.0664     -91.9335                St._Lucas         2
+41.3081     -93.7297                St._Marys         0
+40.8575     -91.8352                Stockport         2
+41.5914     -90.8588                 Stockton         2
+42.9286     -91.3863                 St._Olaf         2
+42.1139     -91.3493               Stone_City         2
+42.6411     -95.2097               Storm_Lake         1
+42.1872     -93.5958               Story_City         0
+42.5264     -92.7119                    Stout         0
+40.7695     -91.5171                 St._Paul         2
+42.2691     -93.9272                Stratford         0
+42.6836      -91.534         Strawberry_Point         2
+42.8953     -96.1953                  Struble         1
+41.5003     -94.3187                   Stuart         0
+41.5783     -92.8449                    Sully         0
+42.8494     -92.0971                   Sumner         2
+40.8491     -94.0681          Sun_Valley_Lake         0
+43.4302     -94.9464                 Superior         1
+42.9741     -95.4975               Sutherland         1
+42.9786     -93.3169                Swaledale         0
+41.4653     -93.3113                     Swan         0
+43.3844      -94.315                Swea_City         0
+41.8456     -91.6929                  Swisher         2
+40.8949     -95.6737                    Tabor         1
+41.9667     -92.5769                     Tama         0
+41.9183     -94.9428                Templeton         1
+41.5936     -95.4411                  Tennant         1
+43.3058     -94.9717                   Terril         1
+41.0281     -94.0508                   Thayer         0
+43.3713     -93.7736                 Thompson         0
+42.688     -94.0494                     Thor         0
+41.4547     -92.3357                Thornburg         2
+42.9447     -93.3846                 Thornton         0
+40.82     -95.7478                  Thurman         1
+41.7058     -91.6629                   Tiffin         2
+40.8528     -94.1952                  Tingley         0
+41.7697     -91.1279                   Tipton         2
+43.2369     -94.0413                  Titonka         0
+43.4422     -92.8905              Toeterville         0
+41.9956     -92.5769                   Toledo         0
+41.905      -90.864                  Toronto         2
+42.1936     -92.4655                    Traer         2
+41.2325     -95.6131                  Treynor         1
+42.808     -92.2582                  Tripoli         2
+42.7291     -95.1828                Truesdale         1
+41.2097     -93.8466                    Truro         0
+42.0194     -95.9664                    Turin         1
+42.4847     -94.6359               Twin_Lakes         1
+40.7809     -92.7421                    Udell         0
+41.3869     -95.6767                Underwood         1
+42.2455     -93.0647                    Union         0
+40.8184     -92.6955               Unionville         0
+41.655     -91.5568       University_Heights         2
+41.2869     -92.6185          University_Park         0
+42.2242     -91.8743                   Urbana         2
+41.6368     -93.7798                Urbandale         0
+42.0503     -95.7064                      Ute         1
+42.0619        -95.2                     Vail         1
+41.73     -93.3252                  Valeria         0
+42.0086      -92.091                Van_Horne         2
+41.5319     -93.9541                Van_Meter         0
+40.8697      -93.793                 Van_Wert         0
+42.658     -94.8978                   Varina         1
+43.1264     -93.4777                  Ventura         0
+41.7307     -92.2947                   Victor         2
+40.9297     -94.9761                 Villisca         1
+42.5919     -94.0202                  Vincent         0
+41.99     -92.3799                   Vining         2
+42.1686     -92.0235                   Vinton         2
+42.8047      -91.541                    Volga         2
+42.8428     -91.6568                   Wadena         2
+43.3661     -95.1719                 Wahpeton         1
+41.5873     -90.7805                  Walcott         2
+41.8797     -91.8305                  Walford         2
+42.2867     -91.7807                   Walker         2
+43.3197     -94.7928              Wallingford         1
+42.2711     -95.0931                Wall_Lake         1
+41.4775     -95.2219                   Walnut         1
+41.1814     -91.1854                  Wapello         2
+42.4117     -92.2674                 Washburn         2
+41.2992     -91.6929               Washington         2
+42.5755     -95.7175                   Washta         1
+42.4928      -92.343                 Waterloo         2
+43.2078     -91.2976               Waterville         2
+41.8911     -91.9863                  Watkins         2
+43.0561     -92.0332                  Waucoma         2
+41.6117     -93.8852                   Waukee         0
+43.2694     -91.4757                   Waukon         2
+42.7258     -92.4755                  Waverly         2
+41.1472     -91.6607                  Wayland         2
+42.9486     -95.0119                     Webb         1
+41.4383     -92.1691                  Webster         2
+42.4694     -93.8161             Webster_City         0
+40.8975     -93.7349                   Weldon         0
+41.4642     -91.8382                  Wellman         2
+42.4592     -92.9385                Wellsburg         0
+41.9081     -90.5954                   Welton         2
+43.0883     -93.9902                   Wesley         0
+41.8081     -91.9638               West_Amana         2
+42.9599     -94.4457                West_Bend         1
+41.6628     -91.3407              West_Branch         2
+40.825     -91.1565          West_Burlington         2
+41.3389     -91.8177             West_Chester         2
+41.5499     -93.7814          West_Des_Moines         0
+42.7555     -96.6059                Westfield         1
+42.77     -91.9963                 Westgate         2
+41.57     -91.2638             West_Liberty         2
+43.3533     -95.1625             West_Okoboji         1
+41.3408     -95.7411                   Weston         1
+41.7197     -95.3947               Westphalia         1
+40.7167     -91.4501               West_Point         2
+42.0592     -95.0981                 Westside         1
+42.9628     -91.8082               West_Union         2
+40.9656     -91.6238                 Westwood         2
+41.4014     -92.3546               What_Cheer         2
+41.8317     -90.8382                Wheatland         2
+42.1275     -96.1495                  Whiting         1
+43.0619     -94.4269               Whittemore         1
+42.2608     -93.0055                  Whitten         0
+41.9791     -94.8222                   Willey         1
+42.4883     -93.5449                 Williams         0
+41.6611     -92.0091             Williamsburg         2
+41.0878     -93.2549               Williamson         0
+41.5891     -91.0255                   Wilton         2
+41.5978     -93.7083          Windsor_Heights         0
+41.1231     -91.4413                 Winfield         2
+41.3308     -94.0138                Winterset         0
+42.4733     -91.7343                 Winthrop         2
+41.4003     -94.8869                    Wiota         1
+43.233     -93.9091                    Woden         0
+41.7383     -95.7028                 Woodbine         1
+41.0119     -93.5991                 Woodburn         0
+41.8523     -93.9208                 Woodward         0
+42.5666     -93.8438                Woolstock         0
+42.3964     -91.1199              Worthington         2
+42.0592     -91.0074                  Wyoming         2
+41.7766      -94.358                     Yale         0
+42.3161     -94.8461                   Yetter         1
+40.7333     -95.1569                 Yorktown         1
+42.1611     -93.2972                  Zearing         0
+42.2972     -90.6874                  Zwingle         2
+
+
+===========================================================
+=======================================================
+===================================================
+===============================================
+===========================================
+NUMBER OF CLUSTERS: 4
+===========================================
+===============================================
+
+
+Random Centroid 1:  Lat = 42.7372      Long = -93.3699
+Random Centroid 0:  Lat = 42.9747      Long = -96.3184
+Random Centroid 3:  Lat = 42.5291      Long = -94.5341
+Random Centroid 2:  Lat = 40.8975      Long = -93.7349
+
+Itteration Centroid 0: Lat = 42.6064      Long = -95.9458
+Itteration Centroid 1: Lat = 42.427      Long = -92.1604
+Itteration Centroid 2: Lat = 41.0984      Long = -93.2675
+Itteration Centroid 3: Lat = 42.3187      Long = -94.8065
+
+Itteration Centroid 0: Lat = 42.5258      Long = -95.8872
+Itteration Centroid 1: Lat = 42.2645      Long = -91.8544
+Itteration Centroid 2: Lat = 41.2456      Long = -93.2549
+Itteration Centroid 3: Lat = 42.1951      Long = -94.6708
+
+Itteration Centroid 0: Lat = 42.4806      Long = -95.777
+Itteration Centroid 1: Lat = 42.1955      Long = -91.7439
+Itteration Centroid 2: Lat = 41.3639      Long = -93.2728
+Itteration Centroid 3: Lat = 42.1789      Long = -94.529
+
+Itteration Centroid 0: Lat = 42.3789      Long = -95.7125
+Itteration Centroid 1: Lat = 42.1608      Long = -91.6851
+Itteration Centroid 2: Lat = 41.4079      Long = -93.2624
+Itteration Centroid 3: Lat = 42.2366      Long = -94.3965
+
+Itteration Centroid 0: Lat = 42.2608      Long = -95.6591
+Itteration Centroid 1: Lat = 42.1307      Long = -91.6305
+Itteration Centroid 2: Lat = 41.4223      Long = -93.2475
+Itteration Centroid 3: Lat = 42.3524      Long = -94.2497
+
+Itteration Centroid 0: Lat = 42.1269      Long = -95.5792
+Itteration Centroid 1: Lat = 42.1038      Long = -91.5886
+Itteration Centroid 2: Lat = 41.373      Long = -93.273
+Itteration Centroid 3: Lat = 42.5754      Long = -94.0528
+
+Itteration Centroid 0: Lat = 42.0863      Long = -95.525
+Itteration Centroid 1: Lat = 42.0626      Long = -91.5469
+Itteration Centroid 2: Lat = 41.3307      Long = -93.3378
+Itteration Centroid 3: Lat = 42.7307      Long = -93.8783
+
+Itteration Centroid 0: Lat = 42.096      Long = -95.4908
+Itteration Centroid 1: Lat = 42.0305      Long = -91.5402
+Itteration Centroid 2: Lat = 41.3248      Long = -93.4061
+Itteration Centroid 3: Lat = 42.7883      Long = -93.7684
+
+Itteration Centroid 0: Lat = 42.1097      Long = -95.4732
+Itteration Centroid 1: Lat = 41.9852      Long = -91.5343
+Itteration Centroid 2: Lat = 41.3309      Long = -93.4763
+Itteration Centroid 3: Lat = 42.8316      Long = -93.6648
+
+Itteration Centroid 0: Lat = 42.1283      Long = -95.4589
+Itteration Centroid 1: Lat = 41.9654      Long = -91.5252
+Itteration Centroid 2: Lat = 41.3283      Long = -93.5154
+Itteration Centroid 3: Lat = 42.8298      Long = -93.593
+
+Itteration Centroid 0: Lat = 42.1497      Long = -95.4479
+Itteration Centroid 1: Lat = 41.9545      Long = -91.5219
+Itteration Centroid 2: Lat = 41.3311      Long = -93.5613
+Itteration Centroid 3: Lat = 42.8334      Long = -93.5208
+
+Itteration Centroid 0: Lat = 42.173      Long = -95.4403
+Itteration Centroid 1: Lat = 41.9465      Long = -91.5209
+Itteration Centroid 2: Lat = 41.3222      Long = -93.5844
+Itteration Centroid 3: Lat = 42.8231      Long = -93.4718
+
+Itteration Centroid 0: Lat = 42.1913      Long = -95.4271
+Itteration Centroid 1: Lat = 41.9436      Long = -91.5211
+Itteration Centroid 2: Lat = 41.3164      Long = -93.6088
+Itteration Centroid 3: Lat = 42.8264      Long = -93.4344
+
+Itteration Centroid 0: Lat = 42.2016      Long = -95.4306
+Itteration Centroid 1: Lat = 41.9325      Long = -91.5315
+Itteration Centroid 2: Lat = 41.3104      Long = -93.6547
+Itteration Centroid 3: Lat = 42.8182      Long = -93.4276
+
+Itteration Centroid 0: Lat = 42.2199      Long = -95.4314
+Itteration Centroid 1: Lat = 41.9258      Long = -91.5325
+Itteration Centroid 2: Lat = 41.3143      Long = -93.6844
+Itteration Centroid 3: Lat = 42.8201      Long = -93.4013
+
+Itteration Centroid 0: Lat = 42.236      Long = -95.4358
+Itteration Centroid 1: Lat = 41.9153      Long = -91.5232
+Itteration Centroid 2: Lat = 41.307      Long = -93.7037
+Itteration Centroid 3: Lat = 42.8193      Long = -93.3797
+
+Itteration Centroid 0: Lat = 42.236      Long = -95.4358
+Itteration Centroid 1: Lat = 41.9126      Long = -91.521
+Itteration Centroid 2: Lat = 41.3058      Long = -93.7165
+Itteration Centroid 3: Lat = 42.8132      Long = -93.3631
+
+Itteration Centroid 0: Lat = 42.236      Long = -95.4358
+Itteration Centroid 1: Lat = 41.9083      Long = -91.5195
+Itteration Centroid 2: Lat = 41.3058      Long = -93.7165
+Itteration Centroid 3: Lat = 42.8155      Long = -93.3565
+
+Final Centroid 0: Lat = 42.236	Long = -95.4358
+Final Centroid 1: Lat = 41.9083	Long = -91.5195
+Final Centroid 2: Lat = 41.3058	Long = -93.7165
+Final Centroid 3: Lat = 42.8155	Long = -93.3565
+
+Number of times the centroids were updated: 18
+
+Lat           Long                     City       kValue
+-------      -------                  ------      ------
+42.5517     -93.0523                   Ackley         3
+41.3669     -93.4727                 Ackworth         2
+41.5001     -94.6429                    Adair         2
+41.6144     -94.0174                     Adel         2
+41.0275      -94.198                    Afton         2
+40.995     -92.3068                   Agency         1
+41.2889     -91.5524                Ainsworth         1
+42.8289     -96.5595                    Akron         0
+42.7819     -94.9486              Albert_City         0
+41.0267     -92.8058                    Albia         2
+42.1125     -92.9885                   Albion         3
+42.1483     -91.6185                Alburnett         1
+42.5203      -93.376                    Alden         3
+42.8058     -93.4766                Alexander         3
+43.07      -94.233                   Algona         3
+41.82     -93.6116                  Alleman         2
+40.7064     -93.3652                 Allerton         2
+42.7527     -92.7952                  Allison         3
+42.6736     -95.2905                     Alta         0
+43.1986     -92.4171               Alta_Vista         3
+42.9875     -96.0106                    Alton         0
+41.6442     -93.4647                  Altoona         2
+43.3422     -96.3011                   Alvord         0
+41.8     -91.8707                    Amana         1
+42.0347     -93.6199                     Ames         2
+42.1083     -91.2852                  Anamosa         1
+40.8014     -95.6042                 Anderson         0
+41.9792     -90.2518                  Andover         1
+42.1536     -90.5923                   Andrew         1
+41.4453     -94.7647                    Anita         0
+41.7297     -93.6058                   Ankeny         2
+42.3883     -95.8667                   Anthon         0
+42.5842     -92.8844                Aplington         3
+42.0872     -95.0461                  Arcadia         0
+43.1153     -95.7459                   Archer         0
+42.833     -93.0055                  Aredale         3
+41.9492     -95.4636                    Arion         0
+40.9494     -94.2191                   Arispe         2
+42.7492     -91.6713                Arlington         1
+43.3961     -94.4783                Armstrong         3
+43.3727     -95.1239             Arnolds_Park         0
+42.3347     -95.3475                   Arthur         0
+42.5144     -90.7515                   Asbury         1
+43.3114     -95.7911                   Ashton         0
+41.9119     -95.1355                Aspinwall         0
+41.5711      -91.166                 Atalissa         1
+40.5722     -94.5422                Athelstan         2
+41.9969     -91.8621                   Atkins         1
+41.4036     -95.0139                 Atlantic         0
+42.2514     -94.8778                   Auburn         0
+41.718     -94.9325                  Audubon         0
+42.7128     -95.4367                  Aurelia         0
+42.6189     -91.7285                   Aurora         1
+41.4767      -95.338                    Avoca         0
+43.0391     -94.8328                 Ayrshire         0
+42.6144     -94.1461                   Badger         3
+41.8461       -94.43                   Bagley         2
+42.0742     -90.8415                  Baldwin         1
+42.638     -90.8687                 Balltown         1
+43.2927      -94.218                 Bancroft         3
+42.5186     -90.9612                 Bankston         1
+41.5071     -92.4696              Barnes_City         1
+42.5086     -94.3653                   Barnum         3
+40.885      -95.795                 Bartlett         0
+43.063     -92.5155                  Bassett         3
+40.9942     -92.1674                  Batavia         1
+42.3155     -95.5986             Battle_Creek         0
+41.8261     -93.1516                   Baxter         2
+41.8519     -94.5583                   Bayard         0
+41.2769     -92.6796                   Beacon         2
+40.8078     -94.0505             Beaconsfield         2
+42.2197     -92.8235                   Beaman         3
+42.0383     -94.1422                   Beaver         2
+40.8467     -91.2085               Beaverdale         1
+40.6669     -94.7214                  Bedford         2
+41.8969     -92.2782             Belle_Plaine         1
+42.2586     -90.4229                 Bellevue         1
+42.8461     -93.6141                  Belmond         3
+41.7403     -90.9738                  Bennett         1
+41.3769     -95.6203                  Bentley         0
+40.7033     -94.3583                   Benton         2
+41.945     -94.1147                  Berkley         2
+42.3122     -90.8318                  Bernard         1
+41.9497     -91.5354                  Bertram         1
+41.5245     -90.5157               Bettendorf         1
+41.3599     -93.7842                Bevington         2
+40.8789     -91.9471               Birmingham         1
+42.48      -93.643               Blairsburg         3
+41.9094     -92.0844               Blairstown         1
+40.9622     -92.6341               Blakesburg         2
+40.5792     -95.2216                Blanchard         0
+41.9303     -96.0808                  Blencoe         0
+40.6155     -94.4772                 Blockton         2
+40.7517     -92.4149               Bloomfield         2
+41.5096     -90.7649               Blue_Grass         1
+42.8683     -94.2897                     Bode         3
+43.3719     -93.1194                    Bolan         3
+40.6981     -91.8032                Bonaparte         1
+41.7005     -93.4622                Bondurant         2
+42.0597     -93.8802                    Boone         2
+41.8514     -94.0091                   Bouton         2
+42.1758     -94.1061                  Boxholm         2
+43.1911     -96.0058                   Boyden         0
+40.5789       -95.03              Braddyville         2
+42.633     -93.2449                 Bradford         3
+42.803      -94.418                 Bradgate         3
+42.3144     -92.0021                  Brandon         1
+41.5444     -94.9241                  Brayton         0
+42.1816     -94.9769                    Breda         0
+41.245     -94.6689              Bridgewater         2
+41.1747     -91.8196                 Brighton         1
+42.7739     -92.9074                  Bristow         3
+43.0977     -93.8019                    Britt         3
+42.4108     -96.2139                  Bronson         0
+41.7336     -92.4455                 Brooklyn         1
+42.8097     -96.2692               Brunsville         0
+42.4172     -93.3749                  Buckeye         3
+41.918     -95.3961               Buck_Grove         0
+41.4564     -90.7235                  Buffalo         1
+43.3858     -93.9466           Buffalo_Center         3
+43.0652     -93.2783                Burchinal         3
+40.8075     -91.1129               Burlington         1
+43.4589     -91.8654                 Burr_Oak         1
+43.1975     -94.2197                     Burt         3
+41.2045     -92.8827                   Bussey         2
+41.8259     -90.7582                  Calamus         1
+41.5586     -95.9947      California_Junction         0
+42.3619     -94.2958                Callender         3
+43.1836     -91.8641                   Calmar         1
+42.9464       -95.55                  Calumet         0
+41.7881     -90.2562                 Camanche         1
+41.8983     -93.5291                Cambridge         2
+40.6442     -92.0699                  Cantril         1
+41.05     -94.8233                   Carbon         2
+41.518     -93.4852                 Carlisle         2
+43.415     -93.0149                Carpenter         3
+42.0658     -94.8669                  Carroll         0
+41.2367     -95.4181                   Carson         0
+41.2906     -95.9181              Carter_Lake         0
+42.3019     -91.0046                  Cascade         1
+41.5075     -94.5213                    Casey         2
+43.1119     -91.6763                 Castalia         1
+42.0744     -95.9086                  Castana         0
+42.5278     -92.4455              Cedar_Falls         3
+42.0083     -91.6441             Cedar_Rapids         1
+42.1161     -91.0871          Center_Junction         1
+42.1908     -91.7852             Center_Point         1
+40.7342     -92.8741              Centerville         2
+42.2039     -91.5241             Central_City         1
+42.4722     -90.8371                Centralia         1
+42.8336     -93.2221                   Chapin         3
+41.0139     -93.3066                 Chariton         2
+43.0664     -92.6724             Charles_City         3
+41.9603     -90.4651                Charlotte         1
+42.0683     -95.5917              Charter_Oak         0
+42.9161     -96.5164               Chatsworth         0
+41.9192     -92.3946                  Chelsea         1
+42.7494     -95.5517                 Cherokee         0
+43.4911     -92.3605                  Chester         3
+41.0856     -92.5294              Chillicothe         2
+42.1519     -94.4744                  Churdan         0
+40.6309     -92.9246               Cincinnati         2
+42.5872     -94.3455                    Clare         3
+41.8889     -91.0565                 Clarence         1
+40.7419     -95.0383                 Clarinda         2
+42.7316      -93.733                  Clarion         3
+42.7847     -92.6677              Clarksville         3
+42.9039     -91.1474                  Clayton         1
+40.8006     -94.4831               Clearfield         2
+43.138     -93.3794               Clear_Lake         3
+42.8122     -95.7128                 Cleghorn         0
+42.1139      -93.156                  Clemons         3
+43.0036     -91.6524                 Clermont         1
+42.3417     -96.0778            Climbing_Hill         0
+41.8445     -90.1887                  Clinton         1
+40.635     -93.4513                     Clio         2
+41.6132     -93.7979                    Clive         2
+42.0794     -92.4021                  Clutier         1
+42.4453     -94.1258                Coalville         3
+40.9175     -95.2644                   Coburg         0
+42.2808     -91.5304                   Coggon         1
+40.6544     -95.2303                     Coin         0
+42.6394     -91.2021                Colesburg         1
+41.6778     -93.2452                   Colfax         2
+40.6192     -95.1208          College_Springs         2
+41.9028     -93.3063                  Collins         2
+42.0178     -93.3152                     Colo         3
+41.2586     -91.3743            Columbus_City         1
+41.28     -91.3607        Columbus_Junction         1
+43.1558     -92.5941                  Colwell         3
+41.382     -91.3499               Conesville         1
+42.2247     -92.8747                   Conrad         3
+41.7292     -91.9977                   Conroy         1
+40.7486     -94.6189                   Conway         2
+41.8748     -94.6784              Coon_Rapids         0
+41.1642     -91.7148                  Coppock         1
+41.6764     -91.5804               Coralville         1
+41.5786     -95.3303                   Corley         0
+40.99     -94.7408                  Corning         2
+42.475     -95.7856          Correctionville         0
+42.9927     -93.9574                  Corwith         3
+40.757     -93.3188                  Corydon         2
+41.292     -91.4616                   Cotter         1
+42.7372     -93.3699                  Coulter         3
+41.2619     -95.8608           Council_Bluffs         0
+42.8958     -96.3097                    Craig         0
+41.2146     -91.5373           Crawfordsville         1
+41.365     -95.8581                 Crescent         0
+43.3814     -92.1141                   Cresco         3
+41.0586     -94.3614                  Creston         2
+41.0394     -94.4619                 Cromwell         2
+43.2233     -93.7924             Crystal_Lake         3
+41.2742     -94.8703               Cumberland         0
+41.4833     -93.7624                  Cumming         2
+42.9789     -94.7411                   Curlew         0
+42.4647      -95.675                  Cushing         0
+43.0889      -94.553                 Cylinder         3
+42.7222     -94.1972              Dakota_City         3
+41.6844     -93.9611            Dallas_Center         2
+42.1075     -94.2408                     Dana         2
+42.2342     -95.7222                  Danbury         0
+40.8645     -91.3146                 Danville         1
+41.5236     -90.5776                Davenport         1
+40.6392     -93.8116               Davis_City         2
+41.8428     -94.2225                   Dawson         2
+42.2614     -94.0686                   Dayton         3
+40.7419     -93.8338             Decatur_City         2
+43.3033     -91.7857                  Decorah         1
+41.9061     -94.8222                   Dedham         0
+41.5803     -92.3749               Deep_River         1
+41.8242     -95.3428                 Defiance         0
+42.4753     -91.3454                 Delaware         1
+42.4297      -91.331                    Delhi         1
+42.0022     -90.6071                   Delmar         1
+42.0978     -95.3225                   Deloit         0
+40.6636     -94.3394                  Delphos         2
+41.3228     -92.3302                    Delta         1
+42.0178     -95.3553                  Denison         0
+40.7417     -91.3374                  Denmark         1
+42.6714     -92.3374                   Denver         3
+40.9317     -93.4563                    Derby         2
+41.5726     -93.6102               Des_Moines         2
+41.5317     -94.0097                  De_Soto         2
+41.8234     -90.5382                  De_Witt         1
+41.5183     -94.2263                   Dexter         2
+40.8094     -94.3422                 Diagonal         2
+41.5521     -94.2622         Diamondhead_Lake         2
+43.1314     -95.0236                  Dickens         0
+42.4641     -92.6282                     Dike         3
+41.7428     -90.7824                    Dixon         1
+43.4644     -94.6253                 Dolliver         3
+41.6947     -90.6754                  Donahue         1
+40.6428     -91.5646               Donnellson         1
+43.2794     -96.2328                     Doon         0
+40.8395     -92.0866                    Douds         1
+42.9222     -93.0421                Dougherty         3
+41.9289     -95.4939                 Dow_City         0
+42.6618     -93.5055                     Dows         3
+40.7983     -92.4816              Drakesville         2
+42.5006     -90.6646                  Dubuque         1
+42.7519     -92.9755                   Dumont         3
+43.1047     -93.7113                   Duncan         3
+42.4705     -93.9936                 Duncombe         3
+42.5791     -91.5465                   Dundee         1
+42.57     -92.1605                Dunkerton         1
+41.8525     -95.6012                   Dunlap         0
+42.5603     -90.7757                  Durango         1
+41.6015     -90.9119                   Durant         1
+42.4815     -91.1166               Dyersville         1
+42.1717     -92.3063                   Dysart         1
+42.6641     -93.9044              Eagle_Grove         3
+41.4919     -94.1241                  Earlham         2
+41.7755     -95.4175                  Earling         0
+42.4817     -91.2724                Earlville         1
+42.4614     -95.1519                    Early         0
+41.8092      -91.851               East_Amana         1
+41.2269     -93.9263                East_Peru         2
+41.1592     -92.6298                Eddyville         2
+42.6442     -91.4017                 Edgewood         1
+42.0061     -92.3169                  Elberon         1
+40.9186      -92.223                    Eldon         1
+42.3608     -93.0996                   Eldora         3
+41.6581     -90.5846                 Eldridge         1
+42.9575     -91.6307                    Elgin         1
+42.8539     -91.4054                  Elkader         1
+41.7916     -93.5222                  Elkhart         2
+41.5917       -95.06                 Elk_Horn         0
+42.7397     -91.2779                  Elkport         1
+42.4669     -92.2566          Elk_Run_Heights         1
+41.1492     -95.1639                  Elliott         0
+40.8403     -94.1086                  Ellston         2
+42.3128     -93.5788                Ellsworth         3
+43.2466      -92.436                     Elma         3
+41.8736     -91.5852                      Ely         1
+41.0172     -95.4022                  Emerson         0
+43.1127      -94.683               Emmetsburg         0
+42.445     -90.9321                  Epworth         1
+40.8336     -95.3083                    Essex         0
+43.4016     -94.8328              Estherville         0
+42.4691      -92.281                Evansdale         1
+43.16     -95.3275                   Everly         0
+41.5908     -94.8755                    Exira         0
+40.6492     -92.8405                   Exline         2
+42.6401     -92.0478                 Fairbank         1
+41.9194      -91.781                  Fairfax         1
+41.0086     -91.9627                Fairfield         1
+42.4428     -91.0062                   Farley         1
+42.9611     -91.3679              Farmersburg         1
+40.6403     -91.7429               Farmington         1
+42.2765     -94.4077             Farnhamville         0
+40.7219     -95.4808                 Farragut         0
+42.8419     -91.8021                  Fayette         1
+43.2197     -94.4305                   Fenton         3
+41.9369     -92.8658                 Ferguson         3
+43.2644     -93.4183                  Fertile         3
+40.865      -92.333                   Floris         1
+43.1277     -92.7363                    Floyd         3
+42.5814     -94.8461                    Fonda         0
+41.2897     -94.5616               Fontanelle         2
+43.257     -93.6364              Forest_City         3
+43.1433     -91.9327            Fort_Atkinson         1
+42.4975      -94.168               Fort_Dodge         3
+40.6298     -91.3152             Fort_Madison         1
+43.2422     -95.1556                 Fostoria         0
+40.6681     -91.5113                 Franklin         1
+42.1272      -93.965                   Fraser         2
+42.9652     -92.1996           Fredericksburg         3
+42.8817     -92.3082                Frederika         3
+41.2848     -91.3388                 Fredonia         1
+41.2125     -92.4355                  Fremont         1
+41.3561     -91.1293                Fruitland         1
+41.57     -91.7324                  Frytown         1
+42.6936     -93.6055                     Galt         3
+42.5069     -95.4172                    Galva         0
+42.7419     -91.2621                   Garber         1
+42.2455     -93.3955              Garden_City         3
+40.8272     -93.6072             Garden_Grove         2
+42.8686      -91.236               Garnavillo         1
+43.1025     -93.6019                   Garner         3
+42.1442     -92.1438                 Garrison         1
+42.0936     -92.6757                   Garwin         3
+42.6755     -93.1294                   Geneva         3
+43.3439     -96.0022                   George         0
+41.4811     -92.3935                   Gibson         1
+42.1069     -93.6497                  Gilbert         3
+42.4161     -92.2149             Gilbertville         1
+43.0158     -95.0375            Gillett_Grove         0
+41.8789     -92.7894                   Gilman         2
+42.7269     -94.4369             Gilmore_City         3
+42.1878     -92.7152                Gladbrook         3
+41.0469     -95.7425                 Glenwood         0
+42.0569     -94.7289                  Glidden         0
+42.7358     -93.9208                Goldfield         3
+42.923     -93.6163                  Goodell         3
+41.9675     -90.3829               Goose_Lake         1
+42.2805     -94.2908                   Gowrie         3
+43.2377     -94.7514              Graettinger         0
+42.4931     -90.8712                     Graf         1
+43.33     -93.0694                  Grafton         3
+42.0316     -94.2408           Grand_Junction         2
+41.8242     -90.6479              Grand_Mound         1
+40.8194     -93.9625              Grand_River         2
+41.2759     -91.1885                Grandview         1
+41.762     -93.8248                  Granger         2
+41.1428     -94.9847                    Grant         0
+42.9855     -95.8736                Granville         0
+40.7605     -94.7436                  Gravity         2
+41.8394      -94.983                     Gray         0
+42.5858     -91.3415                  Greeley         1
+42.8968     -92.8039                   Greene         3
+41.3053     -94.4613               Greenfield         2
+42.1016     -92.8205           Green_Mountain         3
+43.0166     -95.1461               Greenville         0
+41.6788     -93.8028                   Grimes         2
+41.743     -92.7224                 Grinnell         2
+41.235     -95.1375                 Griswold         0
+42.3616     -92.7685            Grundy_Center         3
+43.3933     -94.7053                   Gruver         0
+41.6486     -92.3427                 Guernsey         1
+41.6772     -94.5033           Guthrie_Center         2
+42.7858     -91.0996               Guttenberg         1
+42.0069       -94.97                   Halbur         0
+40.6044     -95.6578                  Hamburg         0
+41.1692     -92.9033                 Hamilton         2
+42.7419     -93.2024                  Hampton         3
+41.39     -95.3625                  Hancock         0
+43.2802     -93.3788               Hanlontown         3
+42.7578     -93.1041                  Hansell         3
+42.2627     -94.1758                 Harcourt         3
+42.8105     -94.0513                    Hardy         3
+41.653     -95.3256                   Harlan         0
+41.3625      -92.051                   Harper         1
+43.2005     -91.1532            Harpers_Ferry         1
+43.4452     -95.4342                   Harris         0
+41.4594     -93.4049                 Hartford         2
+43.18      -95.477                  Hartley         0
+41.7847     -92.3435                 Hartwick         1
+41.3158     -92.9241                   Harvey         2
+41.0228     -95.4992                 Hastings         0
+42.8361     -94.7005                 Havelock         0
+41.945     -92.9608                Haverhill         3
+42.9958     -96.4853                 Hawarden         0
+42.9386     -91.9502                  Hawkeye         1
+41.2645     -92.2491               Hayesville         1
+43.1766     -93.6952                 Hayfield         3
+42.6208     -91.9002                 Hazleton         1
+41.1725     -92.3088                  Hedrick         1
+41.1405     -95.4311                Henderson         0
+40.8492     -95.0172                  Hepburn         2
+42.0358     -91.6821                 Hiawatha         1
+41.8033     -91.9382               High_Amana         1
+41.5542     -91.5349                    Hills         1
+40.8367     -91.7157                Hillsboro         1
+42.6278     -96.2917                   Hinton         0
+41.821     -92.4432             Holiday_Lake         1
+42.3989     -92.8005                  Holland         3
+42.4892      -95.545                 Holstein         0
+42.6005     -90.9957               Holy_Cross         1
+41.7595     -91.8671                Homestead         1
+42.3439     -91.2485                Hopkinton         1
+42.2306     -96.0975                  Hornick         0
+43.0719     -95.9045                  Hospers         0
+40.7836     -91.6029                 Houghton         1
+42.3055     -93.3002                  Hubbard         3
+42.4066     -92.4555                   Hudson         3
+43.1886     -96.1336                     Hull         0
+42.7208     -94.2152                 Humboldt         3
+40.8589     -93.4974                 Humeston         2
+43.0916     -93.8811                 Hutchins         3
+41.8953     -93.6008                   Huxley         2
+42.345     -95.4717                Ida_Grove         0
+40.8794     -95.4269                  Imogene         0
+42.4686     -91.8893             Independence         1
+41.358     -93.5574                Indianola         2
+43.3072      -96.432                   Inwood         0
+43.0341      -92.456                    Ionia         3
+41.6611     -91.5302                Iowa_City         1
+42.5225     -93.2513               Iowa_Falls         3
+42.9747     -96.3184                   Ireton         0
+43.0075     -94.1955                Irvington         3
+41.7916     -95.2058                    Irwin         0
+43.115     -92.0324         Jackson_Junction         1
+41.6453       -95.15             Jacksonville         0
+41.8461     -94.3097                  Jamaica         2
+42.6458     -92.4624               Janesville         3
+42.0153     -94.3775                Jefferson         2
+42.4745     -92.0659                    Jesup         1
+42.3102     -93.6388          Jewell_Junction         3
+41.673     -93.6977                 Johnston         2
+43.3627     -93.4538                    Joice         3
+42.4789     -94.7189                   Jolley         0
+41.4831      -91.706                   Kalona         1
+42.3922     -93.7294                   Kamrar         3
+42.9377     -93.7933                  Kanawha         3
+40.7108     -94.0499                Kellerton         2
+41.9505     -93.6652                   Kelley         2
+41.718     -92.9074                  Kellogg         2
+43.3536     -93.2105                  Kensett         3
+40.9525     -94.4544                     Kent         2
+40.3973     -91.3849                   Keokuk         1
+41.2883     -92.5366           Keomah_Village         2
+40.7303     -91.9624                Keosauqua         1
+41.3654     -91.9534                    Keota         1
+41.4525     -92.2394                  Keswick         1
+41.9983     -92.1974                 Keystone         1
+41.6286      -95.073               Kimballton         0
+42.5883     -95.9675                 Kingsley         0
+41.4608     -91.9868                  Kinross         1
+41.7286     -95.2653                  Kirkman         0
+41.1456     -92.5041                Kirkville         2
+42.1955     -95.3278                    Kiron         0
+43.0069      -93.603                   Klemme         3
+42.4555     -94.4569                  Knierim         0
+41.3208     -93.1094                Knoxville         2
+41.1897      -93.383                   Lacona         2
+41.7547     -92.1835                   Ladora         1
+42.2675     -94.7339                Lake_City         0
+43.4194     -93.5333               Lake_Mills         3
+41.7111     -94.3906            Lake_Panorama         2
+43.4555     -95.3208                Lake_Park         0
+42.6214     -95.1733                 Lakeside         0
+42.302     -95.0358                Lake_View         0
+43.3772     -94.0939                   Lakota         3
+41.703     -93.0794              Lambs_Grove         2
+40.6228     -93.9341                   Lamoni         2
+42.5986     -91.6421                   Lamont         1
+42.2959      -90.621                 La_Motte         1
+42.1844     -94.6914                Lanesboro         0
+43.3622     -91.2165                  Lansing         1
+42.315     -92.1921            La_Porte_City         1
+43.4536     -96.4342                Larchwood         0
+42.8608     -95.5453                 Larrabee         0
+42.7633     -93.3683                  Latimer         3
+41.8842     -92.9221                   Laurel         2
+42.8466     -94.8519                  Laurens         0
+43.0705     -92.1502                   Lawler         3
+42.4786     -96.1839                   Lawton         0
+40.8336     -92.0888                   Leando         1
+41.5986     -90.3435                Le_Claire         1
+43.4216     -94.1622                  Ledyard         3
+42.0063     -92.7751                 Le_Grand         3
+42.36     -94.0522                   Lehigh         3
+41.3372     -92.7871                 Leighton         2
+43.3372     -93.6352                   Leland         3
+42.7942     -96.1656                  Le_Mars         0
+40.8832     -94.5587                    Lenox         2
+40.7397     -93.7477                     Leon         2
+40.8778     -93.5927                   Le_Roy         2
+43.4447     -96.3331                   Lester         0
+41.3284     -91.2371                    Letts         1
+41.3058     -95.0833                    Lewis         0
+40.9575     -92.0513             Libertyville         1
+42.1244      -94.783               Lidderdale         0
+43.4489     -92.2807             Lime_Springs         3
+42.2628     -92.6919                  Lincoln         3
+41.6444     -94.2691                   Linden         2
+40.5814     -93.5238                Lineville         2
+42.8916     -95.2467               Linn_Grove         0
+41.9211     -91.3855                   Lisbon         1
+42.19     -93.0038                  Liscomb         3
+43.3802     -92.7257             Little_Cedar         3
+43.4441     -95.8833              Little_Rock         0
+41.8094     -96.0211             Little_Sioux         0
+42.8686     -94.1852                Livermore         3
+40.9948     -91.7482                Lockridge         1
+41.6431     -95.7889                    Logan         0
+42.2703     -94.5486                Lohrville         0
+43.2186     -94.3269                Lone_Rock         3
+41.4881      -91.426                Lone_Tree         1
+41.6975     -90.5826               Long_Grove         1
+41.1283     -94.0533                  Lorimor         2
+41.9639     -90.8176              Lost_Nation         1
+41.4972       -95.89                 Loveland         0
+41.1358     -92.9041                  Lovilia         2
+41.8575     -90.9282                   Lowden         1
+41.8017     -90.3548                 Low_Moor         1
+43.0603      -91.454                    Luana         1
+41.0283     -93.4599                    Lucas         2
+41.9678     -93.8188                   Luther         2
+42.9092     -94.0836                 Lu_Verne         3
+42.6028      -91.074                Luxemburg         1
+41.898     -92.1799                  Luzerne         1
+41.5775     -92.7835                Lynnville         2
+42.4233     -94.8605                   Lytton         0
+41.1928     -95.4256                Macedonia         0
+41.2147     -94.1852                Macksburg         2
+41.8766     -93.8233                   Madrid         2
+41.6958     -95.8767                 Magnolia         0
+41.0525     -91.9949     Maharishi_Vedic_City         1
+41.7083     -92.5591                   Malcom         1
+42.9364     -94.6822                  Mallard         0
+40.6744     -94.4122                    Maloy         2
+41.0028     -95.5853                  Malvern         0
+42.4841     -91.4554               Manchester         1
+41.8897     -95.2322                  Manilla         0
+43.2872     -93.2022                    Manly         3
+41.9091      -95.065                  Manning         0
+42.5291     -94.5341                   Manson         0
+42.1658     -95.7931                 Mapleton         0
+42.0605     -90.6639                Maquoketa         1
+42.8616     -94.9825                 Marathon         0
+42.9652     -92.8685              Marble_Rock         3
+42.8258     -95.8075                   Marcus         0
+41.7981     -92.0707                  Marengo         1
+42.0342     -91.5977                   Marion         1
+41.4514     -95.1114                    Marne         0
+43.0444     -91.1782                Marquette         1
+42.0494      -92.908             Marshalltown         3
+42.0217     -91.3599                 Martelle         1
+41.373     -93.7358              Martensdale         2
+41.1789     -92.2519              Martinsburg         1
+41.1806     -92.9491               Marysville         2
+43.1536      -93.201               Mason_City         3
+42.4794     -91.5913               Masonville         1
+41.2542     -94.7683                  Massena         2
+43.2439     -95.9353                  Matlock         0
+42.9664     -96.1806                  Maurice         0
+41.8919     -93.3996                  Maxwell         2
+42.7739     -91.8824                  Maynard         1
+41.6486     -90.7168                Maysville         1
+42.1664     -93.3858              McCallsburg         3
+41.7461     -90.4432               McCausland         1
+41.3294     -95.6839               McClelland         0
+43.0183     -91.1826                 McGregor         1
+43.4358     -92.5938                 McIntire         3
+41.9045     -91.2546           Mechanicsville         1
+41.0081      -91.164               Mediapolis         1
+41.9414     -93.1033                Melbourne         2
+41.225     -93.2413           Melcher-Dallas         2
+40.9761     -93.0505                  Melrose         2
+43.2875     -95.6092                   Melvin         0
+41.5192     -94.4044                    Menlo         2
+42.7947     -95.6345                  Meriden         0
+42.7197     -96.2486                  Merrill         0
+42.9127     -93.4783                 Meservey         3
+43.4577     -92.6927                    Meyer         3
+41.7956     -91.8996             Middle_Amana         1
+40.8284      -91.259               Middletown         1
+42.0484     -90.3157                    Miles         1
+43.3247       -95.15                  Milford         0
+43.1841     -93.6002                   Miller         3
+41.5733     -92.1599              Millersburg         1
+40.8494     -93.3055                Millerton         2
+41.2917     -93.4424                     Milo         2
+40.6734     -92.1621                   Milton         1
+41.7564     -94.0275                  Minburn         2
+41.4669     -95.5428                   Minden         0
+41.1431     -95.6956                  Mineola         0
+41.7675     -93.2835                    Mingo         2
+41.5564     -95.8878          Missouri_Valley         0
+43.3219     -92.8677                 Mitchell         3
+41.6681     -93.3639            Mitchellville         2
+41.6197      -96.012                   Modale         0
+43.4872     -92.9413                     Mona         3
+41.7105     -96.0217                 Mondamin         0
+42.077     -90.8799                 Monmouth         1
+43.0517     -91.3893                   Monona         1
+41.5222     -93.1019                   Monroe         2
+41.5858     -92.5274                Montezuma         1
+42.2383     -91.1871               Monticello         1
+41.9814     -92.7149                  Montour         3
+40.5323     -91.4149                 Montrose         1
+41.9225     -95.8514                 Moorhead         0
+42.4416      -94.295                 Moorland         3
+40.8917       -92.82                  Moravia         2
+42.0061     -91.2463                   Morley         1
+41.0961     -91.2576              Morning_Sun         1
+42.3441     -92.6738                 Morrison         3
+40.6859     -92.6774                  Moulton         2
+42.255     -92.0927             Mount_Auburn         1
+40.7147     -94.2352                Mount_Ayr         2
+40.9636     -91.5579           Mount_Pleasant         1
+40.6178     -91.9321           Mount_Sterling         1
+41.0578     -91.3904              Mount_Union         1
+41.922     -91.4168             Mount_Vernon         1
+42.4889     -96.0725                  Moville         0
+41.0417     -93.9494                   Murray         2
+41.4245     -91.0432                Muscatine         1
+40.7775     -92.9438                   Mystic         2
+42.9504     -92.5425                   Nashua         3
+42.5158     -95.0883                   Nemaha         0
+41.4489     -95.6156                    Neola         0
+42.0228     -93.4524                   Nevada         2
+43.4966     -91.2896                New_Albin         1
+42.6055     -95.0028                   Newell         0
+41.9956     -91.9677                  Newhall         1
+43.0591     -92.3177              New_Hampton         3
+42.5669     -92.6221             New_Hartford         3
+43.2844     -92.6421                New_Haven         3
+41.7178      -90.879              New_Liberty         1
+40.927     -91.3996               New_London         1
+40.7311     -94.8997               New_Market         2
+42.2811     -93.1716           New_Providence         3
+41.47     -92.6513               New_Sharon         2
+41.6997      -93.048                   Newton         2
+42.5481     -91.1143               New_Vienna         1
+41.1822     -93.7288             New_Virginia         2
+41.4811     -91.3077                  Nichols         1
+40.9372      -94.895                  Nodaway         2
+43.1441     -93.0089             Nora_Springs         3
+40.6078     -95.2917                Northboro         0
+42.6797     -90.9565        North_Buena_Vista         1
+41.5164     -92.0776            North_English         1
+41.7492     -91.5979            North_Liberty         1
+43.118     -92.4168         North_Washington         3
+43.4441      -93.221                Northwood         3
+41.4917     -93.7021                  Norwalk         2
+41.9028     -91.9216                   Norway         1
+40.6881      -92.978                     Numa         2
+41.3092     -95.3967                  Oakland         0
+41.7172     -92.8205            Oakland_Acres         2
+41.0998     -91.0446                 Oakville         1
+43.4161     -95.5347                Ocheyedan         0
+42.3122     -95.2506                  Odebolt         0
+42.6733     -91.9135                  Oelwein         1
+42.0391     -94.0277                    Ogden         2
+43.3864     -95.1483                  Okoboji         0
+41.1342     -91.5449                     Olds         1
+41.9981     -91.1415                     Olin         1
+41.1981     -92.0924                    Ollie         1
+42.0266     -96.0972                    Onawa         0
+42.107     -91.0152                   Onslow         1
+43.0072     -96.0584              Orange_City         0
+43.2275     -92.7721                  Orchard         3
+41.203     -94.4147                   Orient         2
+43.4472     -95.0925                  Orleans         0
+43.2841      -92.811                    Osage         3
+41.0339     -93.7655                  Osceola         2
+41.2964     -92.6444                Oskaloosa         2
+43.1464     -91.7646                   Ossian         1
+42.7336     -91.1579                Osterdock         1
+42.4247     -94.1502                     Otho         3
+42.2839     -95.8931                      Oto         0
+43.4583     -92.9857                  Otranto         3
+42.895       -94.38                  Ottosen         3
+41.02     -92.4113                  Ottumwa         1
+42.4336     -93.2071                    Owasa         3
+41.7233     -91.7905                   Oxford         1
+41.9836     -90.9563          Oxford_Junction         1
+42.8203     -96.0578                    Oyens         0
+41.0186     -95.7992         Pacific_Junction         0
+41.1328     -92.0827                 Packwood         1
+42.6305     -94.6005                   Palmer         0
+42.0661     -91.7955                     Palo         1
+41.7264     -95.4722                   Panama         0
+41.6917      -94.363                   Panora         2
+41.5556     -90.4532            Panorama_Park         1
+42.5775     -92.7869              Parkersburg         3
+41.6942     -90.5457                Park_View         1
+41.5831     -92.0041                  Parnell         1
+42.1644     -94.2552                    Paton         2
+41.3483     -93.8805                Patterson         2
+42.9791     -95.6881                 Paullina         0
+41.4051     -92.9177                    Pella         2
+42.4506     -90.8504                   Peosta         1
+40.7489     -95.8136                 Percival         0
+41.8386     -94.1072                    Perry         2
+41.58     -95.5681                   Persia         0
+42.918     -95.3439                 Peterson         0
+42.5442     -95.8675                  Pierson         0
+42.1644     -94.0166              Pilot_Mound         2
+42.6539     -94.3925                  Pioneer         3
+41.8314     -95.9256                   Pisgah         0
+42.8475     -92.5371               Plainfield         3
+40.7556     -93.0466                    Plano         2
+41.5839     -93.5199            Pleasant_Hill         2
+40.5806     -93.7438               Pleasanton         2
+41.1472     -91.8591           Pleasant_Plain         1
+41.3858     -93.2694            Pleasantville         2
+42.8783     -94.6205                   Plover         0
+43.2458      -93.123                 Plymouth         3
+42.7355     -94.6692               Pocahontas         0
+41.7714      -93.713                Polk_City         2
+42.5511     -94.6839                  Pomeroy         0
+42.5939      -93.426                  Popejoy         3
+43.1286     -93.1235                 Portland         3
+41.6503     -95.5186               Portsmouth         0
+43.084     -91.5682                Postville         1
+42.2383     -91.4224              Prairieburg         1
+41.5994     -93.2352             Prairie_City         2
+41.023     -94.6136                 Prescott         2
+42.0503      -90.414                  Preston         1
+43.0869     -95.6272                 Primghar         0
+41.6748     -90.3404                Princeton         1
+40.7475     -93.1471             Promise_City         2
+43.2164     -92.0891                 Protivin         3
+40.697     -92.2732                  Pulaski         1
+42.3944      -91.761               Quasqueton         1
+42.6303     -95.6419                   Quimby         0
+42.3153     -93.4344                Radcliffe         3
+43.4838     -93.9188                     Rake         3
+42.0418     -94.6293                  Ralston         0
+42.863     -91.8857                 Randalia         1
+42.2383     -93.6008                  Randall         3
+40.873     -95.5664                 Randolph         0
+40.8011     -92.8888                  Rathbun         2
+42.4689     -92.2196                  Raymond         1
+42.7022     -92.2255                  Readlyn         1
+41.5783     -93.0233                  Reasnor         2
+40.6047     -94.3877                  Redding         2
+41.5894     -94.1961                 Redfield         2
+41.0097     -95.2255                  Red_Oak         0
+42.3236     -92.5994                 Reinbeck         3
+42.8255     -95.1664                Rembrandt         0
+42.8147     -95.9733                   Remsen         0
+42.828     -93.9811                  Renwick         3
+41.9255     -93.1863                   Rhodes         2
+43.3625     -92.5533                Riceville         3
+41.1856     -91.9929                 Richland         1
+42.5833      -90.884            Rickardsville         1
+42.1269      -95.575                 Ricketts         0
+43.2978     -91.9877                 Ridgeway         3
+42.3397     -94.4886                   Rinard         0
+43.2947     -94.5116                 Ringsted         3
+41.9339     -94.2014                   Rippey         2
+41.5445     -90.4582                Riverdale         1
+41.4797     -91.5813                Riverside         1
+41.8058     -96.0464              River_Sioux         0
+40.687     -95.5686                 Riverton         0
+42.0711     -91.6668                   Robins         1
+41.6739     -91.1585                Rochester         1
+43.2075     -93.0846               Rock_Falls         3
+43.0522     -92.9485                 Rockford         3
+43.4272     -96.1759              Rock_Rapids         0
+43.2053      -96.295              Rock_Valley         0
+42.9852     -93.1919                 Rockwell         3
+42.3953     -94.6339            Rockwell_City         0
+43.0286     -94.5311                   Rodman         3
+42.2056     -95.9525                   Rodney         0
+42.1664     -93.5019                   Roland         3
+42.8128     -94.5269                    Rolfe         0
+40.9814     -91.6824                     Rome         1
+41.322     -92.4621                Rose_Hill         1
+43.0091     -92.8099                Roseville         3
+43.0133     -95.1886                   Rossie         0
+42.7408     -93.5527                    Rowan         3
+42.37     -91.8441                   Rowley         1
+43.0655     -95.2839                    Royal         0
+43.1261     -92.9057                     Rudd         3
+41.5111     -93.3574                 Runnells         2
+40.9819     -93.1985                  Russell         2
+43.1291     -94.8992                  Ruthven         0
+42.7591     -94.2977                  Rutland         3
+42.3514     -91.4815                     Ryan         1
+42.0711      -90.174                   Sabula         1
+42.4222     -94.9897                 Sac_City         0
+42.5528      -90.709                Sageville         1
+40.8528     -91.6202                    Salem         1
+42.3083     -96.2878                    Salix         0
+43.1816     -95.6556                  Sanborn         0
+41.3708     -93.3863               Sandyville         2
+41.6786     -93.6297              Saylorville         2
+43.4705     -93.6177                Scarville         3
+42.4997      -95.293                 Schaller         0
+42.1653     -95.4369                Schleswig         0
+42.0225     -94.5452                 Scranton         0
+41.5806     -92.7035                Searsboro         2
+42.4039     -96.3586           Sergeant_Bluff         0
+43.0827     -94.0891                   Sexton         3
+40.6825      -93.121                  Seymour         2
+40.6589     -95.0319                Shambaugh         2
+40.8987     -94.2636             Shannon_City         2
+40.8025     -94.6425               Sharpsburg         2
+42.8933     -93.2152                Sheffield         3
+41.5067     -95.4506                   Shelby         0
+41.8643     -93.6967                 Sheldahl         2
+43.1796      -95.844                  Sheldon         0
+42.7103      -92.583               Shell_Rock         3
+42.0944     -91.8693               Shellsburg         1
+40.7583     -95.3721               Shenandoah         0
+42.6039     -90.7846                 Sherrill         1
+41.8506     -91.6466               Shueyville         1
+43.3991      -95.752                   Sibley         0
+40.7483     -95.6475                   Sidney         0
+41.3333     -92.2046                Sigourney         1
+41.1133     -95.6372              Silver_City         0
+43.0797     -96.1756             Sioux_Center         0
+42.4957     -96.3905               Sioux_City         0
+42.8933     -95.1511             Sioux_Rapids         0
+41.8778     -93.6786                   Slater         2
+42.2328     -96.2281                    Sloan         0
+42.2292     -95.9308                Smithland         0
+41.9853     -95.7794                  Soldier         0
+41.8072     -91.4941                    Solon         1
+42.3783       -94.43                   Somers         0
+41.7761     -91.9674              South_Amana         1
+41.4522     -92.0905            South_English         1
+43.1414     -95.1444                  Spencer         0
+43.205      -91.951               Spillville         1
+43.4222     -95.1022              Spirit_Lake         0
+42.0725     -90.4351             Spragueville         1
+42.1642     -90.4765              Springbrook         1
+41.4114     -93.6449              Spring_Hill         2
+42.0594     -91.4427              Springville         1
+43.4361     -92.7824               Stacyville         3
+42.2889     -93.7961                 Stanhope         3
+42.642     -91.8119                  Stanley         1
+43.3783     -92.9188               St._Ansgar         3
+42.1222     -93.1949              St._Anthony         3
+40.9817     -95.1042                  Stanton         0
+41.8931     -91.1507                 Stanwood         1
+42.0166     -93.1635             State_Center         3
+43.038     -94.0644             St._Benedict         3
+41.2883     -93.8094              St._Charles         2
+42.3608     -90.5393              St._Donatus         1
+42.4094     -93.0658           Steamboat_Rock         3
+42.9133     -94.2272               St._Joseph         3
+43.0664     -91.9335                St._Lucas         1
+41.3081     -93.7297                St._Marys         2
+40.8575     -91.8352                Stockport         1
+41.5914     -90.8588                 Stockton         1
+42.9286     -91.3863                 St._Olaf         1
+42.1139     -91.3493               Stone_City         1
+42.6411     -95.2097               Storm_Lake         0
+42.1872     -93.5958               Story_City         3
+42.5264     -92.7119                    Stout         3
+40.7695     -91.5171                 St._Paul         1
+42.2691     -93.9272                Stratford         3
+42.6836      -91.534         Strawberry_Point         1
+42.8953     -96.1953                  Struble         0
+41.5003     -94.3187                   Stuart         2
+41.5783     -92.8449                    Sully         2
+42.8494     -92.0971                   Sumner         1
+40.8491     -94.0681          Sun_Valley_Lake         2
+43.4302     -94.9464                 Superior         0
+42.9741     -95.4975               Sutherland         0
+42.9786     -93.3169                Swaledale         3
+41.4653     -93.3113                     Swan         2
+43.3844      -94.315                Swea_City         3
+41.8456     -91.6929                  Swisher         1
+40.8949     -95.6737                    Tabor         0
+41.9667     -92.5769                     Tama         1
+41.9183     -94.9428                Templeton         0
+41.5936     -95.4411                  Tennant         0
+43.3058     -94.9717                   Terril         0
+41.0281     -94.0508                   Thayer         2
+43.3713     -93.7736                 Thompson         3
+42.688     -94.0494                     Thor         3
+41.4547     -92.3357                Thornburg         1
+42.9447     -93.3846                 Thornton         3
+40.82     -95.7478                  Thurman         0
+41.7058     -91.6629                   Tiffin         1
+40.8528     -94.1952                  Tingley         2
+41.7697     -91.1279                   Tipton         1
+43.2369     -94.0413                  Titonka         3
+43.4422     -92.8905              Toeterville         3
+41.9956     -92.5769                   Toledo         1
+41.905      -90.864                  Toronto         1
+42.1936     -92.4655                    Traer         1
+41.2325     -95.6131                  Treynor         0
+42.808     -92.2582                  Tripoli         3
+42.7291     -95.1828                Truesdale         0
+41.2097     -93.8466                    Truro         2
+42.0194     -95.9664                    Turin         0
+42.4847     -94.6359               Twin_Lakes         0
+40.7809     -92.7421                    Udell         2
+41.3869     -95.6767                Underwood         0
+42.2455     -93.0647                    Union         3
+40.8184     -92.6955               Unionville         2
+41.655     -91.5568       University_Heights         1
+41.2869     -92.6185          University_Park         2
+42.2242     -91.8743                   Urbana         1
+41.6368     -93.7798                Urbandale         2
+42.0503     -95.7064                      Ute         0
+42.0619        -95.2                     Vail         0
+41.73     -93.3252                  Valeria         2
+42.0086      -92.091                Van_Horne         1
+41.5319     -93.9541                Van_Meter         2
+40.8697      -93.793                 Van_Wert         2
+42.658     -94.8978                   Varina         0
+43.1264     -93.4777                  Ventura         3
+41.7307     -92.2947                   Victor         1
+40.9297     -94.9761                 Villisca         2
+42.5919     -94.0202                  Vincent         3
+41.99     -92.3799                   Vining         1
+42.1686     -92.0235                   Vinton         1
+42.8047      -91.541                    Volga         1
+42.8428     -91.6568                   Wadena         1
+43.3661     -95.1719                 Wahpeton         0
+41.5873     -90.7805                  Walcott         1
+41.8797     -91.8305                  Walford         1
+42.2867     -91.7807                   Walker         1
+43.3197     -94.7928              Wallingford         0
+42.2711     -95.0931                Wall_Lake         0
+41.4775     -95.2219                   Walnut         0
+41.1814     -91.1854                  Wapello         1
+42.4117     -92.2674                 Washburn         1
+41.2992     -91.6929               Washington         1
+42.5755     -95.7175                   Washta         0
+42.4928      -92.343                 Waterloo         1
+43.2078     -91.2976               Waterville         1
+41.8911     -91.9863                  Watkins         1
+43.0561     -92.0332                  Waucoma         1
+41.6117     -93.8852                   Waukee         2
+43.2694     -91.4757                   Waukon         1
+42.7258     -92.4755                  Waverly         3
+41.1472     -91.6607                  Wayland         1
+42.9486     -95.0119                     Webb         0
+41.4383     -92.1691                  Webster         1
+42.4694     -93.8161             Webster_City         3
+40.8975     -93.7349                   Weldon         2
+41.4642     -91.8382                  Wellman         1
+42.4592     -92.9385                Wellsburg         3
+41.9081     -90.5954                   Welton         1
+43.0883     -93.9902                   Wesley         3
+41.8081     -91.9638               West_Amana         1
+42.9599     -94.4457                West_Bend         3
+41.6628     -91.3407              West_Branch         1
+40.825     -91.1565          West_Burlington         1
+41.3389     -91.8177             West_Chester         1
+41.5499     -93.7814          West_Des_Moines         2
+42.7555     -96.6059                Westfield         0
+42.77     -91.9963                 Westgate         1
+41.57     -91.2638             West_Liberty         1
+43.3533     -95.1625             West_Okoboji         0
+41.3408     -95.7411                   Weston         0
+41.7197     -95.3947               Westphalia         0
+40.7167     -91.4501               West_Point         1
+42.0592     -95.0981                 Westside         0
+42.9628     -91.8082               West_Union         1
+40.9656     -91.6238                 Westwood         1
+41.4014     -92.3546               What_Cheer         1
+41.8317     -90.8382                Wheatland         1
+42.1275     -96.1495                  Whiting         0
+43.0619     -94.4269               Whittemore         3
+42.2608     -93.0055                  Whitten         3
+41.9791     -94.8222                   Willey         0
+42.4883     -93.5449                 Williams         3
+41.6611     -92.0091             Williamsburg         1
+41.0878     -93.2549               Williamson         2
+41.5891     -91.0255                   Wilton         1
+41.5978     -93.7083          Windsor_Heights         2
+41.1231     -91.4413                 Winfield         1
+41.3308     -94.0138                Winterset         2
+42.4733     -91.7343                 Winthrop         1
+41.4003     -94.8869                    Wiota         0
+43.233     -93.9091                    Woden         3
+41.7383     -95.7028                 Woodbine         0
+41.0119     -93.5991                 Woodburn         2
+41.8523     -93.9208                 Woodward         2
+42.5666     -93.8438                Woolstock         3
+42.3964     -91.1199              Worthington         1
+42.0592     -91.0074                  Wyoming         1
+41.7766      -94.358                     Yale         2
+42.3161     -94.8461                   Yetter         0
+40.7333     -95.1569                 Yorktown         0
+42.1611     -93.2972                  Zearing         3
+42.2972     -90.6874                  Zwingle         1
+
+
+===========================================================
+=======================================================
+===================================================
+===============================================
+===========================================
+NUMBER OF CLUSTERS: 5
+===========================================
+===============================================
+
+
+Random Centroid 2:  Lat = 42.3441      Long = -92.6738
+Random Centroid 0:  Lat = 42.2056      Long = -95.9525
+Random Centroid 3:  Lat = 43.4222      Long = -95.1022
+Random Centroid 4:  Lat = 42.0594      Long = -91.4427
+Random Centroid 1:  Lat = 41.57      Long = -91.2638
+
+Itteration Centroid 0: Lat = 41.7478      Long = -95.3808
+Itteration Centroid 1: Lat = 41.3193      Long = -91.359
+Itteration Centroid 2: Lat = 42.0777      Long = -93.1437
+Itteration Centroid 3: Lat = 42.9352      Long = -94.763
+Itteration Centroid 4: Lat = 42.3691      Long = -91.437
+
+Itteration Centroid 0: Lat = 41.5983      Long = -95.2983
+Itteration Centroid 1: Lat = 41.295      Long = -91.5235
+Itteration Centroid 2: Lat = 41.9891      Long = -93.2218
+Itteration Centroid 3: Lat = 42.9293      Long = -94.8123
+Itteration Centroid 4: Lat = 42.496      Long = -91.4857
+
+Itteration Centroid 0: Lat = 41.5136      Long = -95.2381
+Itteration Centroid 1: Lat = 41.3308      Long = -91.5987
+Itteration Centroid 2: Lat = 41.9719      Long = -93.2847
+Itteration Centroid 3: Lat = 42.9296      Long = -94.9252
+Itteration Centroid 4: Lat = 42.5641      Long = -91.532
+
+Itteration Centroid 0: Lat = 41.4411      Long = -95.1835
+Itteration Centroid 1: Lat = 41.3573      Long = -91.6106
+Itteration Centroid 2: Lat = 42.0011      Long = -93.3286
+Itteration Centroid 3: Lat = 42.9117      Long = -95.0354
+Itteration Centroid 4: Lat = 42.6007      Long = -91.5778
+
+Itteration Centroid 0: Lat = 41.3895      Long = -95.1319
+Itteration Centroid 1: Lat = 41.3607      Long = -91.6217
+Itteration Centroid 2: Lat = 42.0412      Long = -93.3559
+Itteration Centroid 3: Lat = 42.8818      Long = -95.1369
+Itteration Centroid 4: Lat = 42.6107      Long = -91.6007
+
+Itteration Centroid 0: Lat = 41.3476      Long = -95.0883
+Itteration Centroid 1: Lat = 41.3706      Long = -91.6311
+Itteration Centroid 2: Lat = 42.0793      Long = -93.3812
+Itteration Centroid 3: Lat = 42.8538      Long = -95.214
+Itteration Centroid 4: Lat = 42.6181      Long = -91.6116
+
+Itteration Centroid 0: Lat = 41.319      Long = -95.0352
+Itteration Centroid 1: Lat = 41.3818      Long = -91.6592
+Itteration Centroid 2: Lat = 42.13      Long = -93.4024
+Itteration Centroid 3: Lat = 42.8342      Long = -95.2653
+Itteration Centroid 4: Lat = 42.6304      Long = -91.6137
+
+Itteration Centroid 0: Lat = 41.3005      Long = -95.0018
+Itteration Centroid 1: Lat = 41.3715      Long = -91.704
+Itteration Centroid 2: Lat = 42.1914      Long = -93.4303
+Itteration Centroid 3: Lat = 42.8135      Long = -95.3315
+Itteration Centroid 4: Lat = 42.63      Long = -91.5957
+
+Itteration Centroid 0: Lat = 41.2774      Long = -94.9683
+Itteration Centroid 1: Lat = 41.3643      Long = -91.7254
+Itteration Centroid 2: Lat = 42.2292      Long = -93.4391
+Itteration Centroid 3: Lat = 42.7893      Long = -95.3664
+Itteration Centroid 4: Lat = 42.6149      Long = -91.5713
+
+Itteration Centroid 0: Lat = 41.2591      Long = -94.9328
+Itteration Centroid 1: Lat = 41.3555      Long = -91.764
+Itteration Centroid 2: Lat = 42.2701      Long = -93.4488
+Itteration Centroid 3: Lat = 42.7748      Long = -95.3957
+Itteration Centroid 4: Lat = 42.6002      Long = -91.5359
+
+Itteration Centroid 0: Lat = 41.2395      Long = -94.8908
+Itteration Centroid 1: Lat = 41.3275      Long = -91.846
+Itteration Centroid 2: Lat = 42.3338      Long = -93.4599
+Itteration Centroid 3: Lat = 42.7515      Long = -95.4195
+Itteration Centroid 4: Lat = 42.553      Long = -91.4822
+
+Itteration Centroid 0: Lat = 41.2288      Long = -94.8273
+Itteration Centroid 1: Lat = 41.2941      Long = -91.9442
+Itteration Centroid 2: Lat = 42.3956      Long = -93.4518
+Itteration Centroid 3: Lat = 42.7383      Long = -95.4347
+Itteration Centroid 4: Lat = 42.4825      Long = -91.4112
+
+Itteration Centroid 0: Lat = 41.2275      Long = -94.8011
+Itteration Centroid 1: Lat = 41.2705      Long = -92.0586
+Itteration Centroid 2: Lat = 42.4487      Long = -93.4436
+Itteration Centroid 3: Lat = 42.7256      Long = -95.4455
+Itteration Centroid 4: Lat = 42.4142      Long = -91.3452
+
+Itteration Centroid 0: Lat = 41.2222      Long = -94.7762
+Itteration Centroid 1: Lat = 41.2624      Long = -92.1241
+Itteration Centroid 2: Lat = 42.4955      Long = -93.4397
+Itteration Centroid 3: Lat = 42.7105      Long = -95.4562
+Itteration Centroid 4: Lat = 42.3712      Long = -91.3179
+
+Itteration Centroid 0: Lat = 41.2381      Long = -94.751
+Itteration Centroid 1: Lat = 41.2641      Long = -92.1541
+Itteration Centroid 2: Lat = 42.5344      Long = -93.4316
+Itteration Centroid 3: Lat = 42.71      Long = -95.462
+Itteration Centroid 4: Lat = 42.3578      Long = -91.3127
+
+Itteration Centroid 0: Lat = 41.2478      Long = -94.731
+Itteration Centroid 1: Lat = 41.2615      Long = -92.1737
+Itteration Centroid 2: Lat = 42.5526      Long = -93.4334
+Itteration Centroid 3: Lat = 42.7068      Long = -95.4744
+Itteration Centroid 4: Lat = 42.3476      Long = -91.3161
+
+Itteration Centroid 0: Lat = 41.2544      Long = -94.7091
+Itteration Centroid 1: Lat = 41.2585      Long = -92.1867
+Itteration Centroid 2: Lat = 42.5733      Long = -93.4241
+Itteration Centroid 3: Lat = 42.7038      Long = -95.4805
+Itteration Centroid 4: Lat = 42.3289      Long = -91.3103
+
+Itteration Centroid 0: Lat = 41.261      Long = -94.7024
+Itteration Centroid 1: Lat = 41.2565      Long = -92.1971
+Itteration Centroid 2: Lat = 42.584      Long = -93.4189
+Itteration Centroid 3: Lat = 42.7038      Long = -95.4805
+Itteration Centroid 4: Lat = 42.3256      Long = -91.3115
+
+Itteration Centroid 0: Lat = 41.2665      Long = -94.6909
+Itteration Centroid 1: Lat = 41.2572      Long = -92.2036
+Itteration Centroid 2: Lat = 42.5928      Long = -93.4175
+Itteration Centroid 3: Lat = 42.6998      Long = -95.4879
+Itteration Centroid 4: Lat = 42.3256      Long = -91.3115
+
+Itteration Centroid 0: Lat = 41.2733      Long = -94.678
+Itteration Centroid 1: Lat = 41.2607      Long = -92.2142
+Itteration Centroid 2: Lat = 42.614      Long = -93.4185
+Itteration Centroid 3: Lat = 42.6978      Long = -95.4938
+Itteration Centroid 4: Lat = 42.3256      Long = -91.3115
+
+Itteration Centroid 0: Lat = 41.2799      Long = -94.6719
+Itteration Centroid 1: Lat = 41.2631      Long = -92.2189
+Itteration Centroid 2: Lat = 42.6262      Long = -93.4143
+Itteration Centroid 3: Lat = 42.6948      Long = -95.4998
+Itteration Centroid 4: Lat = 42.3239      Long = -91.3064
+
+Itteration Centroid 0: Lat = 41.2837      Long = -94.6692
+Itteration Centroid 1: Lat = 41.2631      Long = -92.2189
+Itteration Centroid 2: Lat = 42.6311      Long = -93.4109
+Itteration Centroid 3: Lat = 42.6933      Long = -95.5058
+Itteration Centroid 4: Lat = 42.3212      Long = -91.3015
+
+Itteration Centroid 0: Lat = 41.2889      Long = -94.6683
+Itteration Centroid 1: Lat = 41.2631      Long = -92.2189
+Itteration Centroid 2: Lat = 42.6311      Long = -93.4109
+Itteration Centroid 3: Lat = 42.6954      Long = -95.5116
+Itteration Centroid 4: Lat = 42.3212      Long = -91.3015
+
+Final Centroid 0: Lat = 41.2889	Long = -94.6683
+Final Centroid 1: Lat = 41.2631	Long = -92.2189
+Final Centroid 2: Lat = 42.6311	Long = -93.4109
+Final Centroid 3: Lat = 42.6954	Long = -95.5116
+Final Centroid 4: Lat = 42.3212	Long = -91.3015
+
+Number of times the centroids were updated: 23
+
+Lat           Long                     City       kValue
+-------      -------                  ------      ------
+42.5517     -93.0523                   Ackley         2
+41.3669     -93.4727                 Ackworth         0
+41.5001     -94.6429                    Adair         0
+41.6144     -94.0174                     Adel         0
+41.0275      -94.198                    Afton         0
+40.995     -92.3068                   Agency         1
+41.2889     -91.5524                Ainsworth         1
+42.8289     -96.5595                    Akron         3
+42.7819     -94.9486              Albert_City         3
+41.0267     -92.8058                    Albia         1
+42.1125     -92.9885                   Albion         2
+42.1483     -91.6185                Alburnett         4
+42.5203      -93.376                    Alden         2
+42.8058     -93.4766                Alexander         2
+43.07      -94.233                   Algona         2
+41.82     -93.6116                  Alleman         2
+40.7064     -93.3652                 Allerton         1
+42.7527     -92.7952                  Allison         2
+42.6736     -95.2905                     Alta         3
+43.1986     -92.4171               Alta_Vista         2
+42.9875     -96.0106                    Alton         3
+41.6442     -93.4647                  Altoona         2
+43.3422     -96.3011                   Alvord         3
+41.8     -91.8707                    Amana         1
+42.0347     -93.6199                     Ames         2
+42.1083     -91.2852                  Anamosa         4
+40.8014     -95.6042                 Anderson         0
+41.9792     -90.2518                  Andover         4
+42.1536     -90.5923                   Andrew         4
+41.4453     -94.7647                    Anita         0
+41.7297     -93.6058                   Ankeny         2
+42.3883     -95.8667                   Anthon         3
+42.5842     -92.8844                Aplington         2
+42.0872     -95.0461                  Arcadia         3
+43.1153     -95.7459                   Archer         3
+42.833     -93.0055                  Aredale         2
+41.9492     -95.4636                    Arion         3
+40.9494     -94.2191                   Arispe         0
+42.7492     -91.6713                Arlington         4
+43.3961     -94.4783                Armstrong         3
+43.3727     -95.1239             Arnolds_Park         3
+42.3347     -95.3475                   Arthur         3
+42.5144     -90.7515                   Asbury         4
+43.3114     -95.7911                   Ashton         3
+41.9119     -95.1355                Aspinwall         0
+41.5711      -91.166                 Atalissa         4
+40.5722     -94.5422                Athelstan         0
+41.9969     -91.8621                   Atkins         4
+41.4036     -95.0139                 Atlantic         0
+42.2514     -94.8778                   Auburn         3
+41.718     -94.9325                  Audubon         0
+42.7128     -95.4367                  Aurelia         3
+42.6189     -91.7285                   Aurora         4
+41.4767      -95.338                    Avoca         0
+43.0391     -94.8328                 Ayrshire         3
+42.6144     -94.1461                   Badger         2
+41.8461       -94.43                   Bagley         0
+42.0742     -90.8415                  Baldwin         4
+42.638     -90.8687                 Balltown         4
+43.2927      -94.218                 Bancroft         2
+42.5186     -90.9612                 Bankston         4
+41.5071     -92.4696              Barnes_City         1
+42.5086     -94.3653                   Barnum         2
+40.885      -95.795                 Bartlett         0
+43.063     -92.5155                  Bassett         2
+40.9942     -92.1674                  Batavia         1
+42.3155     -95.5986             Battle_Creek         3
+41.8261     -93.1516                   Baxter         2
+41.8519     -94.5583                   Bayard         0
+41.2769     -92.6796                   Beacon         1
+40.8078     -94.0505             Beaconsfield         0
+42.2197     -92.8235                   Beaman         2
+42.0383     -94.1422                   Beaver         0
+40.8467     -91.2085               Beaverdale         1
+40.6669     -94.7214                  Bedford         0
+41.8969     -92.2782             Belle_Plaine         1
+42.2586     -90.4229                 Bellevue         4
+42.8461     -93.6141                  Belmond         2
+41.7403     -90.9738                  Bennett         4
+41.3769     -95.6203                  Bentley         0
+40.7033     -94.3583                   Benton         0
+41.945     -94.1147                  Berkley         0
+42.3122     -90.8318                  Bernard         4
+41.9497     -91.5354                  Bertram         4
+41.5245     -90.5157               Bettendorf         4
+41.3599     -93.7842                Bevington         0
+40.8789     -91.9471               Birmingham         1
+42.48      -93.643               Blairsburg         2
+41.9094     -92.0844               Blairstown         1
+40.9622     -92.6341               Blakesburg         1
+40.5792     -95.2216                Blanchard         0
+41.9303     -96.0808                  Blencoe         3
+40.6155     -94.4772                 Blockton         0
+40.7517     -92.4149               Bloomfield         1
+41.5096     -90.7649               Blue_Grass         4
+42.8683     -94.2897                     Bode         2
+43.3719     -93.1194                    Bolan         2
+40.6981     -91.8032                Bonaparte         1
+41.7005     -93.4622                Bondurant         2
+42.0597     -93.8802                    Boone         2
+41.8514     -94.0091                   Bouton         0
+42.1758     -94.1061                  Boxholm         2
+43.1911     -96.0058                   Boyden         3
+40.5789       -95.03              Braddyville         0
+42.633     -93.2449                 Bradford         2
+42.803      -94.418                 Bradgate         2
+42.3144     -92.0021                  Brandon         4
+41.5444     -94.9241                  Brayton         0
+42.1816     -94.9769                    Breda         3
+41.245     -94.6689              Bridgewater         0
+41.1747     -91.8196                 Brighton         1
+42.7739     -92.9074                  Bristow         2
+43.0977     -93.8019                    Britt         2
+42.4108     -96.2139                  Bronson         3
+41.7336     -92.4455                 Brooklyn         1
+42.8097     -96.2692               Brunsville         3
+42.4172     -93.3749                  Buckeye         2
+41.918     -95.3961               Buck_Grove         3
+41.4564     -90.7235                  Buffalo         4
+43.3858     -93.9466           Buffalo_Center         2
+43.0652     -93.2783                Burchinal         2
+40.8075     -91.1129               Burlington         1
+43.4589     -91.8654                 Burr_Oak         4
+43.1975     -94.2197                     Burt         2
+41.2045     -92.8827                   Bussey         1
+41.8259     -90.7582                  Calamus         4
+41.5586     -95.9947      California_Junction         3
+42.3619     -94.2958                Callender         2
+43.1836     -91.8641                   Calmar         4
+42.9464       -95.55                  Calumet         3
+41.7881     -90.2562                 Camanche         4
+41.8983     -93.5291                Cambridge         2
+40.6442     -92.0699                  Cantril         1
+41.05     -94.8233                   Carbon         0
+41.518     -93.4852                 Carlisle         2
+43.415     -93.0149                Carpenter         2
+42.0658     -94.8669                  Carroll         0
+41.2367     -95.4181                   Carson         0
+41.2906     -95.9181              Carter_Lake         0
+42.3019     -91.0046                  Cascade         4
+41.5075     -94.5213                    Casey         0
+43.1119     -91.6763                 Castalia         4
+42.0744     -95.9086                  Castana         3
+42.5278     -92.4455              Cedar_Falls         2
+42.0083     -91.6441             Cedar_Rapids         4
+42.1161     -91.0871          Center_Junction         4
+42.1908     -91.7852             Center_Point         4
+40.7342     -92.8741              Centerville         1
+42.2039     -91.5241             Central_City         4
+42.4722     -90.8371                Centralia         4
+42.8336     -93.2221                   Chapin         2
+41.0139     -93.3066                 Chariton         1
+43.0664     -92.6724             Charles_City         2
+41.9603     -90.4651                Charlotte         4
+42.0683     -95.5917              Charter_Oak         3
+42.9161     -96.5164               Chatsworth         3
+41.9192     -92.3946                  Chelsea         1
+42.7494     -95.5517                 Cherokee         3
+43.4911     -92.3605                  Chester         2
+41.0856     -92.5294              Chillicothe         1
+42.1519     -94.4744                  Churdan         0
+40.6309     -92.9246               Cincinnati         1
+42.5872     -94.3455                    Clare         2
+41.8889     -91.0565                 Clarence         4
+40.7419     -95.0383                 Clarinda         0
+42.7316      -93.733                  Clarion         2
+42.7847     -92.6677              Clarksville         2
+42.9039     -91.1474                  Clayton         4
+40.8006     -94.4831               Clearfield         0
+43.138     -93.3794               Clear_Lake         2
+42.8122     -95.7128                 Cleghorn         3
+42.1139      -93.156                  Clemons         2
+43.0036     -91.6524                 Clermont         4
+42.3417     -96.0778            Climbing_Hill         3
+41.8445     -90.1887                  Clinton         4
+40.635     -93.4513                     Clio         0
+41.6132     -93.7979                    Clive         0
+42.0794     -92.4021                  Clutier         1
+42.4453     -94.1258                Coalville         2
+40.9175     -95.2644                   Coburg         0
+42.2808     -91.5304                   Coggon         4
+40.6544     -95.2303                     Coin         0
+42.6394     -91.2021                Colesburg         4
+41.6778     -93.2452                   Colfax         2
+40.6192     -95.1208          College_Springs         0
+41.9028     -93.3063                  Collins         2
+42.0178     -93.3152                     Colo         2
+41.2586     -91.3743            Columbus_City         1
+41.28     -91.3607        Columbus_Junction         1
+43.1558     -92.5941                  Colwell         2
+41.382     -91.3499               Conesville         1
+42.2247     -92.8747                   Conrad         2
+41.7292     -91.9977                   Conroy         1
+40.7486     -94.6189                   Conway         0
+41.8748     -94.6784              Coon_Rapids         0
+41.1642     -91.7148                  Coppock         1
+41.6764     -91.5804               Coralville         4
+41.5786     -95.3303                   Corley         0
+40.99     -94.7408                  Corning         0
+42.475     -95.7856          Correctionville         3
+42.9927     -93.9574                  Corwith         2
+40.757     -93.3188                  Corydon         1
+41.292     -91.4616                   Cotter         1
+42.7372     -93.3699                  Coulter         2
+41.2619     -95.8608           Council_Bluffs         0
+42.8958     -96.3097                    Craig         3
+41.2146     -91.5373           Crawfordsville         1
+41.365     -95.8581                 Crescent         0
+43.3814     -92.1141                   Cresco         4
+41.0586     -94.3614                  Creston         0
+41.0394     -94.4619                 Cromwell         0
+43.2233     -93.7924             Crystal_Lake         2
+41.2742     -94.8703               Cumberland         0
+41.4833     -93.7624                  Cumming         0
+42.9789     -94.7411                   Curlew         3
+42.4647      -95.675                  Cushing         3
+43.0889      -94.553                 Cylinder         3
+42.7222     -94.1972              Dakota_City         2
+41.6844     -93.9611            Dallas_Center         0
+42.1075     -94.2408                     Dana         0
+42.2342     -95.7222                  Danbury         3
+40.8645     -91.3146                 Danville         1
+41.5236     -90.5776                Davenport         4
+40.6392     -93.8116               Davis_City         0
+41.8428     -94.2225                   Dawson         0
+42.2614     -94.0686                   Dayton         2
+40.7419     -93.8338             Decatur_City         0
+43.3033     -91.7857                  Decorah         4
+41.9061     -94.8222                   Dedham         0
+41.5803     -92.3749               Deep_River         1
+41.8242     -95.3428                 Defiance         0
+42.4753     -91.3454                 Delaware         4
+42.4297      -91.331                    Delhi         4
+42.0022     -90.6071                   Delmar         4
+42.0978     -95.3225                   Deloit         3
+40.6636     -94.3394                  Delphos         0
+41.3228     -92.3302                    Delta         1
+42.0178     -95.3553                  Denison         3
+40.7417     -91.3374                  Denmark         1
+42.6714     -92.3374                   Denver         2
+40.9317     -93.4563                    Derby         0
+41.5726     -93.6102               Des_Moines         2
+41.5317     -94.0097                  De_Soto         0
+41.8234     -90.5382                  De_Witt         4
+41.5183     -94.2263                   Dexter         0
+40.8094     -94.3422                 Diagonal         0
+41.5521     -94.2622         Diamondhead_Lake         0
+43.1314     -95.0236                  Dickens         3
+42.4641     -92.6282                     Dike         2
+41.7428     -90.7824                    Dixon         4
+43.4644     -94.6253                 Dolliver         3
+41.6947     -90.6754                  Donahue         4
+40.6428     -91.5646               Donnellson         1
+43.2794     -96.2328                     Doon         3
+40.8395     -92.0866                    Douds         1
+42.9222     -93.0421                Dougherty         2
+41.9289     -95.4939                 Dow_City         3
+42.6618     -93.5055                     Dows         2
+40.7983     -92.4816              Drakesville         1
+42.5006     -90.6646                  Dubuque         4
+42.7519     -92.9755                   Dumont         2
+43.1047     -93.7113                   Duncan         2
+42.4705     -93.9936                 Duncombe         2
+42.5791     -91.5465                   Dundee         4
+42.57     -92.1605                Dunkerton         4
+41.8525     -95.6012                   Dunlap         3
+42.5603     -90.7757                  Durango         4
+41.6015     -90.9119                   Durant         4
+42.4815     -91.1166               Dyersville         4
+42.1717     -92.3063                   Dysart         1
+42.6641     -93.9044              Eagle_Grove         2
+41.4919     -94.1241                  Earlham         0
+41.7755     -95.4175                  Earling         0
+42.4817     -91.2724                Earlville         4
+42.4614     -95.1519                    Early         3
+41.8092      -91.851               East_Amana         1
+41.2269     -93.9263                East_Peru         0
+41.1592     -92.6298                Eddyville         1
+42.6442     -91.4017                 Edgewood         4
+42.0061     -92.3169                  Elberon         1
+40.9186      -92.223                    Eldon         1
+42.3608     -93.0996                   Eldora         2
+41.6581     -90.5846                 Eldridge         4
+42.9575     -91.6307                    Elgin         4
+42.8539     -91.4054                  Elkader         4
+41.7916     -93.5222                  Elkhart         2
+41.5917       -95.06                 Elk_Horn         0
+42.7397     -91.2779                  Elkport         4
+42.4669     -92.2566          Elk_Run_Heights         4
+41.1492     -95.1639                  Elliott         0
+40.8403     -94.1086                  Ellston         0
+42.3128     -93.5788                Ellsworth         2
+43.2466      -92.436                     Elma         2
+41.8736     -91.5852                      Ely         4
+41.0172     -95.4022                  Emerson         0
+43.1127      -94.683               Emmetsburg         3
+42.445     -90.9321                  Epworth         4
+40.8336     -95.3083                    Essex         0
+43.4016     -94.8328              Estherville         3
+42.4691      -92.281                Evansdale         4
+43.16     -95.3275                   Everly         3
+41.5908     -94.8755                    Exira         0
+40.6492     -92.8405                   Exline         1
+42.6401     -92.0478                 Fairbank         4
+41.9194      -91.781                  Fairfax         4
+41.0086     -91.9627                Fairfield         1
+42.4428     -91.0062                   Farley         4
+42.9611     -91.3679              Farmersburg         4
+40.6403     -91.7429               Farmington         1
+42.2765     -94.4077             Farnhamville         0
+40.7219     -95.4808                 Farragut         0
+42.8419     -91.8021                  Fayette         4
+43.2197     -94.4305                   Fenton         2
+41.9369     -92.8658                 Ferguson         2
+43.2644     -93.4183                  Fertile         2
+40.865      -92.333                   Floris         1
+43.1277     -92.7363                    Floyd         2
+42.5814     -94.8461                    Fonda         3
+41.2897     -94.5616               Fontanelle         0
+43.257     -93.6364              Forest_City         2
+43.1433     -91.9327            Fort_Atkinson         4
+42.4975      -94.168               Fort_Dodge         2
+40.6298     -91.3152             Fort_Madison         1
+43.2422     -95.1556                 Fostoria         3
+40.6681     -91.5113                 Franklin         1
+42.1272      -93.965                   Fraser         2
+42.9652     -92.1996           Fredericksburg         4
+42.8817     -92.3082                Frederika         2
+41.2848     -91.3388                 Fredonia         1
+41.2125     -92.4355                  Fremont         1
+41.3561     -91.1293                Fruitland         4
+41.57     -91.7324                  Frytown         1
+42.6936     -93.6055                     Galt         2
+42.5069     -95.4172                    Galva         3
+42.7419     -91.2621                   Garber         4
+42.2455     -93.3955              Garden_City         2
+40.8272     -93.6072             Garden_Grove         0
+42.8686      -91.236               Garnavillo         4
+43.1025     -93.6019                   Garner         2
+42.1442     -92.1438                 Garrison         4
+42.0936     -92.6757                   Garwin         2
+42.6755     -93.1294                   Geneva         2
+43.3439     -96.0022                   George         3
+41.4811     -92.3935                   Gibson         1
+42.1069     -93.6497                  Gilbert         2
+42.4161     -92.2149             Gilbertville         4
+43.0158     -95.0375            Gillett_Grove         3
+41.8789     -92.7894                   Gilman         1
+42.7269     -94.4369             Gilmore_City         2
+42.1878     -92.7152                Gladbrook         2
+41.0469     -95.7425                 Glenwood         0
+42.0569     -94.7289                  Glidden         0
+42.7358     -93.9208                Goldfield         2
+42.923     -93.6163                  Goodell         2
+41.9675     -90.3829               Goose_Lake         4
+42.2805     -94.2908                   Gowrie         2
+43.2377     -94.7514              Graettinger         3
+42.4931     -90.8712                     Graf         4
+43.33     -93.0694                  Grafton         2
+42.0316     -94.2408           Grand_Junction         0
+41.8242     -90.6479              Grand_Mound         4
+40.8194     -93.9625              Grand_River         0
+41.2759     -91.1885                Grandview         1
+41.762     -93.8248                  Granger         2
+41.1428     -94.9847                    Grant         0
+42.9855     -95.8736                Granville         3
+40.7605     -94.7436                  Gravity         0
+41.8394      -94.983                     Gray         0
+42.5858     -91.3415                  Greeley         4
+42.8968     -92.8039                   Greene         2
+41.3053     -94.4613               Greenfield         0
+42.1016     -92.8205           Green_Mountain         2
+43.0166     -95.1461               Greenville         3
+41.6788     -93.8028                   Grimes         0
+41.743     -92.7224                 Grinnell         1
+41.235     -95.1375                 Griswold         0
+42.3616     -92.7685            Grundy_Center         2
+43.3933     -94.7053                   Gruver         3
+41.6486     -92.3427                 Guernsey         1
+41.6772     -94.5033           Guthrie_Center         0
+42.7858     -91.0996               Guttenberg         4
+42.0069       -94.97                   Halbur         0
+40.6044     -95.6578                  Hamburg         0
+41.1692     -92.9033                 Hamilton         1
+42.7419     -93.2024                  Hampton         2
+41.39     -95.3625                  Hancock         0
+43.2802     -93.3788               Hanlontown         2
+42.7578     -93.1041                  Hansell         2
+42.2627     -94.1758                 Harcourt         2
+42.8105     -94.0513                    Hardy         2
+41.653     -95.3256                   Harlan         0
+41.3625      -92.051                   Harper         1
+43.2005     -91.1532            Harpers_Ferry         4
+43.4452     -95.4342                   Harris         3
+41.4594     -93.4049                 Hartford         2
+43.18      -95.477                  Hartley         3
+41.7847     -92.3435                 Hartwick         1
+41.3158     -92.9241                   Harvey         1
+41.0228     -95.4992                 Hastings         0
+42.8361     -94.7005                 Havelock         3
+41.945     -92.9608                Haverhill         2
+42.9958     -96.4853                 Hawarden         3
+42.9386     -91.9502                  Hawkeye         4
+41.2645     -92.2491               Hayesville         1
+43.1766     -93.6952                 Hayfield         2
+42.6208     -91.9002                 Hazleton         4
+41.1725     -92.3088                  Hedrick         1
+41.1405     -95.4311                Henderson         0
+40.8492     -95.0172                  Hepburn         0
+42.0358     -91.6821                 Hiawatha         4
+41.8033     -91.9382               High_Amana         1
+41.5542     -91.5349                    Hills         1
+40.8367     -91.7157                Hillsboro         1
+42.6278     -96.2917                   Hinton         3
+41.821     -92.4432             Holiday_Lake         1
+42.3989     -92.8005                  Holland         2
+42.4892      -95.545                 Holstein         3
+42.6005     -90.9957               Holy_Cross         4
+41.7595     -91.8671                Homestead         1
+42.3439     -91.2485                Hopkinton         4
+42.2306     -96.0975                  Hornick         3
+43.0719     -95.9045                  Hospers         3
+40.7836     -91.6029                 Houghton         1
+42.3055     -93.3002                  Hubbard         2
+42.4066     -92.4555                   Hudson         2
+43.1886     -96.1336                     Hull         3
+42.7208     -94.2152                 Humboldt         2
+40.8589     -93.4974                 Humeston         0
+43.0916     -93.8811                 Hutchins         2
+41.8953     -93.6008                   Huxley         2
+42.345     -95.4717                Ida_Grove         3
+40.8794     -95.4269                  Imogene         0
+42.4686     -91.8893             Independence         4
+41.358     -93.5574                Indianola         0
+43.3072      -96.432                   Inwood         3
+43.0341      -92.456                    Ionia         2
+41.6611     -91.5302                Iowa_City         4
+42.5225     -93.2513               Iowa_Falls         2
+42.9747     -96.3184                   Ireton         3
+43.0075     -94.1955                Irvington         2
+41.7916     -95.2058                    Irwin         0
+43.115     -92.0324         Jackson_Junction         4
+41.6453       -95.15             Jacksonville         0
+41.8461     -94.3097                  Jamaica         0
+42.6458     -92.4624               Janesville         2
+42.0153     -94.3775                Jefferson         0
+42.4745     -92.0659                    Jesup         4
+42.3102     -93.6388          Jewell_Junction         2
+41.673     -93.6977                 Johnston         2
+43.3627     -93.4538                    Joice         2
+42.4789     -94.7189                   Jolley         3
+41.4831      -91.706                   Kalona         1
+42.3922     -93.7294                   Kamrar         2
+42.9377     -93.7933                  Kanawha         2
+40.7108     -94.0499                Kellerton         0
+41.9505     -93.6652                   Kelley         2
+41.718     -92.9074                  Kellogg         1
+43.3536     -93.2105                  Kensett         2
+40.9525     -94.4544                     Kent         0
+40.3973     -91.3849                   Keokuk         1
+41.2883     -92.5366           Keomah_Village         1
+40.7303     -91.9624                Keosauqua         1
+41.3654     -91.9534                    Keota         1
+41.4525     -92.2394                  Keswick         1
+41.9983     -92.1974                 Keystone         1
+41.6286      -95.073               Kimballton         0
+42.5883     -95.9675                 Kingsley         3
+41.4608     -91.9868                  Kinross         1
+41.7286     -95.2653                  Kirkman         0
+41.1456     -92.5041                Kirkville         1
+42.1955     -95.3278                    Kiron         3
+43.0069      -93.603                   Klemme         2
+42.4555     -94.4569                  Knierim         2
+41.3208     -93.1094                Knoxville         1
+41.1897      -93.383                   Lacona         1
+41.7547     -92.1835                   Ladora         1
+42.2675     -94.7339                Lake_City         3
+43.4194     -93.5333               Lake_Mills         2
+41.7111     -94.3906            Lake_Panorama         0
+43.4555     -95.3208                Lake_Park         3
+42.6214     -95.1733                 Lakeside         3
+42.302     -95.0358                Lake_View         3
+43.3772     -94.0939                   Lakota         2
+41.703     -93.0794              Lambs_Grove         1
+40.6228     -93.9341                   Lamoni         0
+42.5986     -91.6421                   Lamont         4
+42.2959      -90.621                 La_Motte         4
+42.1844     -94.6914                Lanesboro         0
+43.3622     -91.2165                  Lansing         4
+42.315     -92.1921            La_Porte_City         4
+43.4536     -96.4342                Larchwood         3
+42.8608     -95.5453                 Larrabee         3
+42.7633     -93.3683                  Latimer         2
+41.8842     -92.9221                   Laurel         2
+42.8466     -94.8519                  Laurens         3
+43.0705     -92.1502                   Lawler         4
+42.4786     -96.1839                   Lawton         3
+40.8336     -92.0888                   Leando         1
+41.5986     -90.3435                Le_Claire         4
+43.4216     -94.1622                  Ledyard         2
+42.0063     -92.7751                 Le_Grand         2
+42.36     -94.0522                   Lehigh         2
+41.3372     -92.7871                 Leighton         1
+43.3372     -93.6352                   Leland         2
+42.7942     -96.1656                  Le_Mars         3
+40.8832     -94.5587                    Lenox         0
+40.7397     -93.7477                     Leon         0
+40.8778     -93.5927                   Le_Roy         0
+43.4447     -96.3331                   Lester         3
+41.3284     -91.2371                    Letts         1
+41.3058     -95.0833                    Lewis         0
+40.9575     -92.0513             Libertyville         1
+42.1244      -94.783               Lidderdale         0
+43.4489     -92.2807             Lime_Springs         2
+42.2628     -92.6919                  Lincoln         2
+41.6444     -94.2691                   Linden         0
+40.5814     -93.5238                Lineville         0
+42.8916     -95.2467               Linn_Grove         3
+41.9211     -91.3855                   Lisbon         4
+42.19     -93.0038                  Liscomb         2
+43.3802     -92.7257             Little_Cedar         2
+43.4441     -95.8833              Little_Rock         3
+41.8094     -96.0211             Little_Sioux         3
+42.8686     -94.1852                Livermore         2
+40.9948     -91.7482                Lockridge         1
+41.6431     -95.7889                    Logan         3
+42.2703     -94.5486                Lohrville         0
+43.2186     -94.3269                Lone_Rock         2
+41.4881      -91.426                Lone_Tree         1
+41.6975     -90.5826               Long_Grove         4
+41.1283     -94.0533                  Lorimor         0
+41.9639     -90.8176              Lost_Nation         4
+41.4972       -95.89                 Loveland         0
+41.1358     -92.9041                  Lovilia         1
+41.8575     -90.9282                   Lowden         4
+41.8017     -90.3548                 Low_Moor         4
+43.0603      -91.454                    Luana         4
+41.0283     -93.4599                    Lucas         0
+41.9678     -93.8188                   Luther         2
+42.9092     -94.0836                 Lu_Verne         2
+42.6028      -91.074                Luxemburg         4
+41.898     -92.1799                  Luzerne         1
+41.5775     -92.7835                Lynnville         1
+42.4233     -94.8605                   Lytton         3
+41.1928     -95.4256                Macedonia         0
+41.2147     -94.1852                Macksburg         0
+41.8766     -93.8233                   Madrid         2
+41.6958     -95.8767                 Magnolia         3
+41.0525     -91.9949     Maharishi_Vedic_City         1
+41.7083     -92.5591                   Malcom         1
+42.9364     -94.6822                  Mallard         3
+40.6744     -94.4122                    Maloy         0
+41.0028     -95.5853                  Malvern         0
+42.4841     -91.4554               Manchester         4
+41.8897     -95.2322                  Manilla         0
+43.2872     -93.2022                    Manly         2
+41.9091      -95.065                  Manning         0
+42.5291     -94.5341                   Manson         3
+42.1658     -95.7931                 Mapleton         3
+42.0605     -90.6639                Maquoketa         4
+42.8616     -94.9825                 Marathon         3
+42.9652     -92.8685              Marble_Rock         2
+42.8258     -95.8075                   Marcus         3
+41.7981     -92.0707                  Marengo         1
+42.0342     -91.5977                   Marion         4
+41.4514     -95.1114                    Marne         0
+43.0444     -91.1782                Marquette         4
+42.0494      -92.908             Marshalltown         2
+42.0217     -91.3599                 Martelle         4
+41.373     -93.7358              Martensdale         0
+41.1789     -92.2519              Martinsburg         1
+41.1806     -92.9491               Marysville         1
+43.1536      -93.201               Mason_City         2
+42.4794     -91.5913               Masonville         4
+41.2542     -94.7683                  Massena         0
+43.2439     -95.9353                  Matlock         3
+42.9664     -96.1806                  Maurice         3
+41.8919     -93.3996                  Maxwell         2
+42.7739     -91.8824                  Maynard         4
+41.6486     -90.7168                Maysville         4
+42.1664     -93.3858              McCallsburg         2
+41.7461     -90.4432               McCausland         4
+41.3294     -95.6839               McClelland         0
+43.0183     -91.1826                 McGregor         4
+43.4358     -92.5938                 McIntire         2
+41.9045     -91.2546           Mechanicsville         4
+41.0081      -91.164               Mediapolis         1
+41.9414     -93.1033                Melbourne         2
+41.225     -93.2413           Melcher-Dallas         1
+40.9761     -93.0505                  Melrose         1
+43.2875     -95.6092                   Melvin         3
+41.5192     -94.4044                    Menlo         0
+42.7947     -95.6345                  Meriden         3
+42.7197     -96.2486                  Merrill         3
+42.9127     -93.4783                 Meservey         2
+43.4577     -92.6927                    Meyer         2
+41.7956     -91.8996             Middle_Amana         1
+40.8284      -91.259               Middletown         1
+42.0484     -90.3157                    Miles         4
+43.3247       -95.15                  Milford         3
+43.1841     -93.6002                   Miller         2
+41.5733     -92.1599              Millersburg         1
+40.8494     -93.3055                Millerton         1
+41.2917     -93.4424                     Milo         1
+40.6734     -92.1621                   Milton         1
+41.7564     -94.0275                  Minburn         0
+41.4669     -95.5428                   Minden         0
+41.1431     -95.6956                  Mineola         0
+41.7675     -93.2835                    Mingo         2
+41.5564     -95.8878          Missouri_Valley         3
+43.3219     -92.8677                 Mitchell         2
+41.6681     -93.3639            Mitchellville         2
+41.6197      -96.012                   Modale         3
+43.4872     -92.9413                     Mona         2
+41.7105     -96.0217                 Mondamin         3
+42.077     -90.8799                 Monmouth         4
+43.0517     -91.3893                   Monona         4
+41.5222     -93.1019                   Monroe         1
+41.5858     -92.5274                Montezuma         1
+42.2383     -91.1871               Monticello         4
+41.9814     -92.7149                  Montour         1
+40.5323     -91.4149                 Montrose         1
+41.9225     -95.8514                 Moorhead         3
+42.4416      -94.295                 Moorland         2
+40.8917       -92.82                  Moravia         1
+42.0061     -91.2463                   Morley         4
+41.0961     -91.2576              Morning_Sun         1
+42.3441     -92.6738                 Morrison         2
+40.6859     -92.6774                  Moulton         1
+42.255     -92.0927             Mount_Auburn         4
+40.7147     -94.2352                Mount_Ayr         0
+40.9636     -91.5579           Mount_Pleasant         1
+40.6178     -91.9321           Mount_Sterling         1
+41.0578     -91.3904              Mount_Union         1
+41.922     -91.4168             Mount_Vernon         4
+42.4889     -96.0725                  Moville         3
+41.0417     -93.9494                   Murray         0
+41.4245     -91.0432                Muscatine         4
+40.7775     -92.9438                   Mystic         1
+42.9504     -92.5425                   Nashua         2
+42.5158     -95.0883                   Nemaha         3
+41.4489     -95.6156                    Neola         0
+42.0228     -93.4524                   Nevada         2
+43.4966     -91.2896                New_Albin         4
+42.6055     -95.0028                   Newell         3
+41.9956     -91.9677                  Newhall         4
+43.0591     -92.3177              New_Hampton         2
+42.5669     -92.6221             New_Hartford         2
+43.2844     -92.6421                New_Haven         2
+41.7178      -90.879              New_Liberty         4
+40.927     -91.3996               New_London         1
+40.7311     -94.8997               New_Market         0
+42.2811     -93.1716           New_Providence         2
+41.47     -92.6513               New_Sharon         1
+41.6997      -93.048                   Newton         1
+42.5481     -91.1143               New_Vienna         4
+41.1822     -93.7288             New_Virginia         0
+41.4811     -91.3077                  Nichols         4
+40.9372      -94.895                  Nodaway         0
+43.1441     -93.0089             Nora_Springs         2
+40.6078     -95.2917                Northboro         0
+42.6797     -90.9565        North_Buena_Vista         4
+41.5164     -92.0776            North_English         1
+41.7492     -91.5979            North_Liberty         4
+43.118     -92.4168         North_Washington         2
+43.4441      -93.221                Northwood         2
+41.4917     -93.7021                  Norwalk         0
+41.9028     -91.9216                   Norway         1
+40.6881      -92.978                     Numa         1
+41.3092     -95.3967                  Oakland         0
+41.7172     -92.8205            Oakland_Acres         1
+41.0998     -91.0446                 Oakville         1
+43.4161     -95.5347                Ocheyedan         3
+42.3122     -95.2506                  Odebolt         3
+42.6733     -91.9135                  Oelwein         4
+42.0391     -94.0277                    Ogden         2
+43.3864     -95.1483                  Okoboji         3
+41.1342     -91.5449                     Olds         1
+41.9981     -91.1415                     Olin         4
+41.1981     -92.0924                    Ollie         1
+42.0266     -96.0972                    Onawa         3
+42.107     -91.0152                   Onslow         4
+43.0072     -96.0584              Orange_City         3
+43.2275     -92.7721                  Orchard         2
+41.203     -94.4147                   Orient         0
+43.4472     -95.0925                  Orleans         3
+43.2841      -92.811                    Osage         2
+41.0339     -93.7655                  Osceola         0
+41.2964     -92.6444                Oskaloosa         1
+43.1464     -91.7646                   Ossian         4
+42.7336     -91.1579                Osterdock         4
+42.4247     -94.1502                     Otho         2
+42.2839     -95.8931                      Oto         3
+43.4583     -92.9857                  Otranto         2
+42.895       -94.38                  Ottosen         2
+41.02     -92.4113                  Ottumwa         1
+42.4336     -93.2071                    Owasa         2
+41.7233     -91.7905                   Oxford         1
+41.9836     -90.9563          Oxford_Junction         4
+42.8203     -96.0578                    Oyens         3
+41.0186     -95.7992         Pacific_Junction         0
+41.1328     -92.0827                 Packwood         1
+42.6305     -94.6005                   Palmer         3
+42.0661     -91.7955                     Palo         4
+41.7264     -95.4722                   Panama         0
+41.6917      -94.363                   Panora         0
+41.5556     -90.4532            Panorama_Park         4
+42.5775     -92.7869              Parkersburg         2
+41.6942     -90.5457                Park_View         4
+41.5831     -92.0041                  Parnell         1
+42.1644     -94.2552                    Paton         2
+41.3483     -93.8805                Patterson         0
+42.9791     -95.6881                 Paullina         3
+41.4051     -92.9177                    Pella         1
+42.4506     -90.8504                   Peosta         4
+40.7489     -95.8136                 Percival         0
+41.8386     -94.1072                    Perry         0
+41.58     -95.5681                   Persia         0
+42.918     -95.3439                 Peterson         3
+42.5442     -95.8675                  Pierson         3
+42.1644     -94.0166              Pilot_Mound         2
+42.6539     -94.3925                  Pioneer         2
+41.8314     -95.9256                   Pisgah         3
+42.8475     -92.5371               Plainfield         2
+40.7556     -93.0466                    Plano         1
+41.5839     -93.5199            Pleasant_Hill         2
+40.5806     -93.7438               Pleasanton         0
+41.1472     -91.8591           Pleasant_Plain         1
+41.3858     -93.2694            Pleasantville         1
+42.8783     -94.6205                   Plover         3
+43.2458      -93.123                 Plymouth         2
+42.7355     -94.6692               Pocahontas         3
+41.7714      -93.713                Polk_City         2
+42.5511     -94.6839                  Pomeroy         3
+42.5939      -93.426                  Popejoy         2
+43.1286     -93.1235                 Portland         2
+41.6503     -95.5186               Portsmouth         0
+43.084     -91.5682                Postville         4
+42.2383     -91.4224              Prairieburg         4
+41.5994     -93.2352             Prairie_City         2
+41.023     -94.6136                 Prescott         0
+42.0503      -90.414                  Preston         4
+43.0869     -95.6272                 Primghar         3
+41.6748     -90.3404                Princeton         4
+40.7475     -93.1471             Promise_City         1
+43.2164     -92.0891                 Protivin         4
+40.697     -92.2732                  Pulaski         1
+42.3944      -91.761               Quasqueton         4
+42.6303     -95.6419                   Quimby         3
+42.3153     -93.4344                Radcliffe         2
+43.4838     -93.9188                     Rake         2
+42.0418     -94.6293                  Ralston         0
+42.863     -91.8857                 Randalia         4
+42.2383     -93.6008                  Randall         2
+40.873     -95.5664                 Randolph         0
+40.8011     -92.8888                  Rathbun         1
+42.4689     -92.2196                  Raymond         4
+42.7022     -92.2255                  Readlyn         4
+41.5783     -93.0233                  Reasnor         1
+40.6047     -94.3877                  Redding         0
+41.5894     -94.1961                 Redfield         0
+41.0097     -95.2255                  Red_Oak         0
+42.3236     -92.5994                 Reinbeck         2
+42.8255     -95.1664                Rembrandt         3
+42.8147     -95.9733                   Remsen         3
+42.828     -93.9811                  Renwick         2
+41.9255     -93.1863                   Rhodes         2
+43.3625     -92.5533                Riceville         2
+41.1856     -91.9929                 Richland         1
+42.5833      -90.884            Rickardsville         4
+42.1269      -95.575                 Ricketts         3
+43.2978     -91.9877                 Ridgeway         4
+42.3397     -94.4886                   Rinard         0
+43.2947     -94.5116                 Ringsted         3
+41.9339     -94.2014                   Rippey         0
+41.5445     -90.4582                Riverdale         4
+41.4797     -91.5813                Riverside         1
+41.8058     -96.0464              River_Sioux         3
+40.687     -95.5686                 Riverton         0
+42.0711     -91.6668                   Robins         4
+41.6739     -91.1585                Rochester         4
+43.2075     -93.0846               Rock_Falls         2
+43.0522     -92.9485                 Rockford         2
+43.4272     -96.1759              Rock_Rapids         3
+43.2053      -96.295              Rock_Valley         3
+42.9852     -93.1919                 Rockwell         2
+42.3953     -94.6339            Rockwell_City         3
+43.0286     -94.5311                   Rodman         3
+42.2056     -95.9525                   Rodney         3
+42.1664     -93.5019                   Roland         2
+42.8128     -94.5269                    Rolfe         3
+40.9814     -91.6824                     Rome         1
+41.322     -92.4621                Rose_Hill         1
+43.0091     -92.8099                Roseville         2
+43.0133     -95.1886                   Rossie         3
+42.7408     -93.5527                    Rowan         2
+42.37     -91.8441                   Rowley         4
+43.0655     -95.2839                    Royal         3
+43.1261     -92.9057                     Rudd         2
+41.5111     -93.3574                 Runnells         2
+40.9819     -93.1985                  Russell         1
+43.1291     -94.8992                  Ruthven         3
+42.7591     -94.2977                  Rutland         2
+42.3514     -91.4815                     Ryan         4
+42.0711      -90.174                   Sabula         4
+42.4222     -94.9897                 Sac_City         3
+42.5528      -90.709                Sageville         4
+40.8528     -91.6202                    Salem         1
+42.3083     -96.2878                    Salix         3
+43.1816     -95.6556                  Sanborn         3
+41.3708     -93.3863               Sandyville         1
+41.6786     -93.6297              Saylorville         2
+43.4705     -93.6177                Scarville         2
+42.4997      -95.293                 Schaller         3
+42.1653     -95.4369                Schleswig         3
+42.0225     -94.5452                 Scranton         0
+41.5806     -92.7035                Searsboro         1
+42.4039     -96.3586           Sergeant_Bluff         3
+43.0827     -94.0891                   Sexton         2
+40.6825      -93.121                  Seymour         1
+40.6589     -95.0319                Shambaugh         0
+40.8987     -94.2636             Shannon_City         0
+40.8025     -94.6425               Sharpsburg         0
+42.8933     -93.2152                Sheffield         2
+41.5067     -95.4506                   Shelby         0
+41.8643     -93.6967                 Sheldahl         2
+43.1796      -95.844                  Sheldon         3
+42.7103      -92.583               Shell_Rock         2
+42.0944     -91.8693               Shellsburg         4
+40.7583     -95.3721               Shenandoah         0
+42.6039     -90.7846                 Sherrill         4
+41.8506     -91.6466               Shueyville         4
+43.3991      -95.752                   Sibley         3
+40.7483     -95.6475                   Sidney         0
+41.3333     -92.2046                Sigourney         1
+41.1133     -95.6372              Silver_City         0
+43.0797     -96.1756             Sioux_Center         3
+42.4957     -96.3905               Sioux_City         3
+42.8933     -95.1511             Sioux_Rapids         3
+41.8778     -93.6786                   Slater         2
+42.2328     -96.2281                    Sloan         3
+42.2292     -95.9308                Smithland         3
+41.9853     -95.7794                  Soldier         3
+41.8072     -91.4941                    Solon         4
+42.3783       -94.43                   Somers         2
+41.7761     -91.9674              South_Amana         1
+41.4522     -92.0905            South_English         1
+43.1414     -95.1444                  Spencer         3
+43.205      -91.951               Spillville         4
+43.4222     -95.1022              Spirit_Lake         3
+42.0725     -90.4351             Spragueville         4
+42.1642     -90.4765              Springbrook         4
+41.4114     -93.6449              Spring_Hill         0
+42.0594     -91.4427              Springville         4
+43.4361     -92.7824               Stacyville         2
+42.2889     -93.7961                 Stanhope         2
+42.642     -91.8119                  Stanley         4
+43.3783     -92.9188               St._Ansgar         2
+42.1222     -93.1949              St._Anthony         2
+40.9817     -95.1042                  Stanton         0
+41.8931     -91.1507                 Stanwood         4
+42.0166     -93.1635             State_Center         2
+43.038     -94.0644             St._Benedict         2
+41.2883     -93.8094              St._Charles         0
+42.3608     -90.5393              St._Donatus         4
+42.4094     -93.0658           Steamboat_Rock         2
+42.9133     -94.2272               St._Joseph         2
+43.0664     -91.9335                St._Lucas         4
+41.3081     -93.7297                St._Marys         0
+40.8575     -91.8352                Stockport         1
+41.5914     -90.8588                 Stockton         4
+42.9286     -91.3863                 St._Olaf         4
+42.1139     -91.3493               Stone_City         4
+42.6411     -95.2097               Storm_Lake         3
+42.1872     -93.5958               Story_City         2
+42.5264     -92.7119                    Stout         2
+40.7695     -91.5171                 St._Paul         1
+42.2691     -93.9272                Stratford         2
+42.6836      -91.534         Strawberry_Point         4
+42.8953     -96.1953                  Struble         3
+41.5003     -94.3187                   Stuart         0
+41.5783     -92.8449                    Sully         1
+42.8494     -92.0971                   Sumner         4
+40.8491     -94.0681          Sun_Valley_Lake         0
+43.4302     -94.9464                 Superior         3
+42.9741     -95.4975               Sutherland         3
+42.9786     -93.3169                Swaledale         2
+41.4653     -93.3113                     Swan         1
+43.3844      -94.315                Swea_City         2
+41.8456     -91.6929                  Swisher         4
+40.8949     -95.6737                    Tabor         0
+41.9667     -92.5769                     Tama         1
+41.9183     -94.9428                Templeton         0
+41.5936     -95.4411                  Tennant         0
+43.3058     -94.9717                   Terril         3
+41.0281     -94.0508                   Thayer         0
+43.3713     -93.7736                 Thompson         2
+42.688     -94.0494                     Thor         2
+41.4547     -92.3357                Thornburg         1
+42.9447     -93.3846                 Thornton         2
+40.82     -95.7478                  Thurman         0
+41.7058     -91.6629                   Tiffin         1
+40.8528     -94.1952                  Tingley         0
+41.7697     -91.1279                   Tipton         4
+43.2369     -94.0413                  Titonka         2
+43.4422     -92.8905              Toeterville         2
+41.9956     -92.5769                   Toledo         1
+41.905      -90.864                  Toronto         4
+42.1936     -92.4655                    Traer         1
+41.2325     -95.6131                  Treynor         0
+42.808     -92.2582                  Tripoli         4
+42.7291     -95.1828                Truesdale         3
+41.2097     -93.8466                    Truro         0
+42.0194     -95.9664                    Turin         3
+42.4847     -94.6359               Twin_Lakes         3
+40.7809     -92.7421                    Udell         1
+41.3869     -95.6767                Underwood         0
+42.2455     -93.0647                    Union         2
+40.8184     -92.6955               Unionville         1
+41.655     -91.5568       University_Heights         4
+41.2869     -92.6185          University_Park         1
+42.2242     -91.8743                   Urbana         4
+41.6368     -93.7798                Urbandale         0
+42.0503     -95.7064                      Ute         3
+42.0619        -95.2                     Vail         3
+41.73     -93.3252                  Valeria         2
+42.0086      -92.091                Van_Horne         1
+41.5319     -93.9541                Van_Meter         0
+40.8697      -93.793                 Van_Wert         0
+42.658     -94.8978                   Varina         3
+43.1264     -93.4777                  Ventura         2
+41.7307     -92.2947                   Victor         1
+40.9297     -94.9761                 Villisca         0
+42.5919     -94.0202                  Vincent         2
+41.99     -92.3799                   Vining         1
+42.1686     -92.0235                   Vinton         4
+42.8047      -91.541                    Volga         4
+42.8428     -91.6568                   Wadena         4
+43.3661     -95.1719                 Wahpeton         3
+41.5873     -90.7805                  Walcott         4
+41.8797     -91.8305                  Walford         4
+42.2867     -91.7807                   Walker         4
+43.3197     -94.7928              Wallingford         3
+42.2711     -95.0931                Wall_Lake         3
+41.4775     -95.2219                   Walnut         0
+41.1814     -91.1854                  Wapello         1
+42.4117     -92.2674                 Washburn         4
+41.2992     -91.6929               Washington         1
+42.5755     -95.7175                   Washta         3
+42.4928      -92.343                 Waterloo         4
+43.2078     -91.2976               Waterville         4
+41.8911     -91.9863                  Watkins         1
+43.0561     -92.0332                  Waucoma         4
+41.6117     -93.8852                   Waukee         0
+43.2694     -91.4757                   Waukon         4
+42.7258     -92.4755                  Waverly         2
+41.1472     -91.6607                  Wayland         1
+42.9486     -95.0119                     Webb         3
+41.4383     -92.1691                  Webster         1
+42.4694     -93.8161             Webster_City         2
+40.8975     -93.7349                   Weldon         0
+41.4642     -91.8382                  Wellman         1
+42.4592     -92.9385                Wellsburg         2
+41.9081     -90.5954                   Welton         4
+43.0883     -93.9902                   Wesley         2
+41.8081     -91.9638               West_Amana         1
+42.9599     -94.4457                West_Bend         2
+41.6628     -91.3407              West_Branch         4
+40.825     -91.1565          West_Burlington         1
+41.3389     -91.8177             West_Chester         1
+41.5499     -93.7814          West_Des_Moines         0
+42.7555     -96.6059                Westfield         3
+42.77     -91.9963                 Westgate         4
+41.57     -91.2638             West_Liberty         4
+43.3533     -95.1625             West_Okoboji         3
+41.3408     -95.7411                   Weston         0
+41.7197     -95.3947               Westphalia         0
+40.7167     -91.4501               West_Point         1
+42.0592     -95.0981                 Westside         3
+42.9628     -91.8082               West_Union         4
+40.9656     -91.6238                 Westwood         1
+41.4014     -92.3546               What_Cheer         1
+41.8317     -90.8382                Wheatland         4
+42.1275     -96.1495                  Whiting         3
+43.0619     -94.4269               Whittemore         2
+42.2608     -93.0055                  Whitten         2
+41.9791     -94.8222                   Willey         0
+42.4883     -93.5449                 Williams         2
+41.6611     -92.0091             Williamsburg         1
+41.0878     -93.2549               Williamson         1
+41.5891     -91.0255                   Wilton         4
+41.5978     -93.7083          Windsor_Heights         0
+41.1231     -91.4413                 Winfield         1
+41.3308     -94.0138                Winterset         0
+42.4733     -91.7343                 Winthrop         4
+41.4003     -94.8869                    Wiota         0
+43.233     -93.9091                    Woden         2
+41.7383     -95.7028                 Woodbine         3
+41.0119     -93.5991                 Woodburn         0
+41.8523     -93.9208                 Woodward         2
+42.5666     -93.8438                Woolstock         2
+42.3964     -91.1199              Worthington         4
+42.0592     -91.0074                  Wyoming         4
+41.7766      -94.358                     Yale         0
+42.3161     -94.8461                   Yetter         3
+40.7333     -95.1569                 Yorktown         0
+42.1611     -93.2972                  Zearing         2
+42.2972     -90.6874                  Zwingle         4
+
+

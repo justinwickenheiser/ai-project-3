@@ -1,6 +1,7 @@
 struct Point {
     double coord[2];
     int kValue;
+    char name[25];
 };
 
 
