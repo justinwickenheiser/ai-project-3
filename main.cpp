@@ -9,6 +9,9 @@
 #include <math.h>
 #include <iomanip>
 #include "functions.h"
+
+#include "koolplot.h"
+
 using namespace std;
 
 int main() {
@@ -69,8 +72,10 @@ int main() {
 		cout << "----" << setw(13) << "-------" << setw(13) << "-------" << setw(10) << "------" << endl;
 		// loop through list of cities and display the final state for each city
 		for (int j=0; j < listSize; j++) {
-         	        cout << j << setw(15) <<  cities[j].coord[0] << setw(13) << cities[j].coord[1] << setw(10) << cities[j].kValue << endl;
-        	}
+            cout << j << setw(15) <<  cities[j].coord[0] << setw(13) << cities[j].coord[1] << setw(10) << cities[j].kValue << endl;
+            addMark(x, y, cities[j].coord[0], cities[j].coord[1]);
+        }
+        plot(x, y);
 		cout << endl << endl;
 	}
 
