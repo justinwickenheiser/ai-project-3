@@ -1,0 +1,1 @@
+When using a .cvs file or .txt file, the file must ONLY have 2 <doubles> per line. The Latitude and Longitude. There cannot be a line anywhere that contains a string, there should not be blank lines between two rows, and there should be spaces between the Latitude and Longitude. Any other character will prevent the file from being read properly.
