@@ -39,7 +39,7 @@ int main() {
         
 		findCentroid(i, listSize, centroids, cities);
         
-        // start while loop
+        	// start while loop
 		while ( !isCentroidSame ) {
 			assignToCentroid(i, listSize, centroids, cities);
  		        calcNewCentroid(i, listSize, newCentroids, cities);
@@ -50,9 +50,9 @@ int main() {
 				centroidReassignmentCounter++;
 
 				cout << endl;
-               	for (int j = 0; j < i; j++) {
-                    cout << "Itteration Centroid " << j << ": Lat = " << centroids[j].coord[0] << "      Long = " << centroids[j].coord[1] << endl;
-                }
+               			for (int j = 0; j < i; j++) {
+                    			cout << "Itteration Centroid " << j << ": Lat = " << centroids[j].coord[0] << "      Long = " << centroids[j].coord[1] << endl;
+                		}
 			}
 		}
 
@@ -69,8 +69,8 @@ int main() {
 		cout <<  "-------" << setw(13) << "-------" << setw(24) << "------" << setw(12) << "------"  << endl;
 		// loop through list of cities and display the final state for each city
 		for (int j=0; j < listSize; j++) {
-            cout << cities[j].coord[0] << setw(13) << cities[j].coord[1] << setw(25) << cities[j].name << setw(10) << cities[j].kValue << endl;
-        }
+           		cout << cities[j].coord[0] << setw(13) << cities[j].coord[1] << setw(25) << cities[j].name << setw(10) << cities[j].kValue << endl;
+        	}
         
 		cout << endl << endl;
 	}
