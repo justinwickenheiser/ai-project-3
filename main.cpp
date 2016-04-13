@@ -42,8 +42,8 @@ int main() {
         // start while loop
 		while ( !isCentroidSame ) {
 			assignToCentroid(i, listSize, centroids, cities);
-            calcNewCentroid(i, listSize, newCentroids, cities);
-            isCentroidSame = compareCentroid(i, centroids, newCentroids);
+ 		        calcNewCentroid(i, listSize, newCentroids, cities);
+            		isCentroidSame = compareCentroid(i, centroids, newCentroids);
 			// if compare returns false then centroids = newCentroids
 			if ( !isCentroidSame ) {
 				updateCentroid(i, centroids, newCentroids);
