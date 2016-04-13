@@ -1,1 +1,17 @@
-When using a .cvs file or .txt file, the file must ONLY have 2 <doubles> per line. The Latitude and Longitude. There cannot be a line anywhere that contains a string, there should not be blank lines between two rows, and there should be spaces between the Latitude and Longitude. Any other character will prevent the file from being read properly.
+When using a .cvs file or .txt file, the file must ONLY have 1 <string> and  2 <doubles> per line in that order. The City, Latitude and Longitude.
+There cannot be blank lines between two rows, and there should be spaces between the cities, Latitude and Longitude.
+However, there should be NO spaces in the city name itself.
+Use underscores (_) as a spaces in city names. Any other character will prevent the file from being read properly.
+
+To compile the program. 
+1. Can be run through EOS
+2. Unzip the files
+3. Command: clang++ main.cpp functions.cpp -o output
+
+Executing the code:
+1. ./output > outputFile.txt
+
+
+
+
+
